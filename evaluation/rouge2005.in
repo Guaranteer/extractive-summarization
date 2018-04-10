@@ -1,0 +1,6302 @@
+<ROUGE_EVAL version="1.5.5">
+<EVAL ID="D446.M.250.J.G">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d446</P>
+</PEERS>
+<MODELS>
+<M ID="H">D446.M.250.J.H</M>
+<M ID="I">D446.M.250.J.I</M>
+<M ID="J">D446.M.250.J.J</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D446.M.250.J.H">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d446</P>
+</PEERS>
+<MODELS>
+<M ID="G">D446.M.250.J.G</M>
+<M ID="I">D446.M.250.J.I</M>
+<M ID="J">D446.M.250.J.J</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D446.M.250.J.I">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d446</P>
+</PEERS>
+<MODELS>
+<M ID="G">D446.M.250.J.G</M>
+<M ID="H">D446.M.250.J.H</M>
+<M ID="J">D446.M.250.J.J</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D446.M.250.J.J">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d446</P>
+</PEERS>
+<MODELS>
+<M ID="G">D446.M.250.J.G</M>
+<M ID="H">D446.M.250.J.H</M>
+<M ID="I">D446.M.250.J.I</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D407.M.250.B.A">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d407</P>
+</PEERS>
+<MODELS>
+<M ID="B">D407.M.250.B.B</M>
+<M ID="C">D407.M.250.B.C</M>
+<M ID="D">D407.M.250.B.D</M>
+<M ID="E">D407.M.250.B.E</M>
+<M ID="F">D407.M.250.B.F</M>
+<M ID="G">D407.M.250.B.G</M>
+<M ID="I">D407.M.250.B.I</M>
+<M ID="J">D407.M.250.B.J</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D407.M.250.B.B">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d407</P>
+</PEERS>
+<MODELS>
+<M ID="A">D407.M.250.B.A</M>
+<M ID="C">D407.M.250.B.C</M>
+<M ID="D">D407.M.250.B.D</M>
+<M ID="E">D407.M.250.B.E</M>
+<M ID="F">D407.M.250.B.F</M>
+<M ID="G">D407.M.250.B.G</M>
+<M ID="I">D407.M.250.B.I</M>
+<M ID="J">D407.M.250.B.J</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D407.M.250.B.C">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d407</P>
+</PEERS>
+<MODELS>
+<M ID="A">D407.M.250.B.A</M>
+<M ID="B">D407.M.250.B.B</M>
+<M ID="D">D407.M.250.B.D</M>
+<M ID="E">D407.M.250.B.E</M>
+<M ID="F">D407.M.250.B.F</M>
+<M ID="G">D407.M.250.B.G</M>
+<M ID="I">D407.M.250.B.I</M>
+<M ID="J">D407.M.250.B.J</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D407.M.250.B.D">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d407</P>
+</PEERS>
+<MODELS>
+<M ID="A">D407.M.250.B.A</M>
+<M ID="B">D407.M.250.B.B</M>
+<M ID="C">D407.M.250.B.C</M>
+<M ID="E">D407.M.250.B.E</M>
+<M ID="F">D407.M.250.B.F</M>
+<M ID="G">D407.M.250.B.G</M>
+<M ID="I">D407.M.250.B.I</M>
+<M ID="J">D407.M.250.B.J</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D407.M.250.B.E">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d407</P>
+</PEERS>
+<MODELS>
+<M ID="A">D407.M.250.B.A</M>
+<M ID="B">D407.M.250.B.B</M>
+<M ID="C">D407.M.250.B.C</M>
+<M ID="D">D407.M.250.B.D</M>
+<M ID="F">D407.M.250.B.F</M>
+<M ID="G">D407.M.250.B.G</M>
+<M ID="I">D407.M.250.B.I</M>
+<M ID="J">D407.M.250.B.J</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D407.M.250.B.F">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d407</P>
+</PEERS>
+<MODELS>
+<M ID="A">D407.M.250.B.A</M>
+<M ID="B">D407.M.250.B.B</M>
+<M ID="C">D407.M.250.B.C</M>
+<M ID="D">D407.M.250.B.D</M>
+<M ID="E">D407.M.250.B.E</M>
+<M ID="G">D407.M.250.B.G</M>
+<M ID="I">D407.M.250.B.I</M>
+<M ID="J">D407.M.250.B.J</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D407.M.250.B.G">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d407</P>
+</PEERS>
+<MODELS>
+<M ID="A">D407.M.250.B.A</M>
+<M ID="B">D407.M.250.B.B</M>
+<M ID="C">D407.M.250.B.C</M>
+<M ID="D">D407.M.250.B.D</M>
+<M ID="E">D407.M.250.B.E</M>
+<M ID="F">D407.M.250.B.F</M>
+<M ID="I">D407.M.250.B.I</M>
+<M ID="J">D407.M.250.B.J</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D407.M.250.B.I">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d407</P>
+</PEERS>
+<MODELS>
+<M ID="A">D407.M.250.B.A</M>
+<M ID="B">D407.M.250.B.B</M>
+<M ID="C">D407.M.250.B.C</M>
+<M ID="D">D407.M.250.B.D</M>
+<M ID="E">D407.M.250.B.E</M>
+<M ID="F">D407.M.250.B.F</M>
+<M ID="G">D407.M.250.B.G</M>
+<M ID="J">D407.M.250.B.J</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D407.M.250.B.J">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d407</P>
+</PEERS>
+<MODELS>
+<M ID="A">D407.M.250.B.A</M>
+<M ID="B">D407.M.250.B.B</M>
+<M ID="C">D407.M.250.B.C</M>
+<M ID="D">D407.M.250.B.D</M>
+<M ID="E">D407.M.250.B.E</M>
+<M ID="F">D407.M.250.B.F</M>
+<M ID="G">D407.M.250.B.G</M>
+<M ID="I">D407.M.250.B.I</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D434.M.250.B.B">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d434</P>
+</PEERS>
+<MODELS>
+<M ID="G">D434.M.250.B.G</M>
+<M ID="I">D434.M.250.B.I</M>
+<M ID="J">D434.M.250.B.J</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D434.M.250.B.G">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d434</P>
+</PEERS>
+<MODELS>
+<M ID="B">D434.M.250.B.B</M>
+<M ID="I">D434.M.250.B.I</M>
+<M ID="J">D434.M.250.B.J</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D434.M.250.B.I">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d434</P>
+</PEERS>
+<MODELS>
+<M ID="B">D434.M.250.B.B</M>
+<M ID="G">D434.M.250.B.G</M>
+<M ID="J">D434.M.250.B.J</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D434.M.250.B.J">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d434</P>
+</PEERS>
+<MODELS>
+<M ID="B">D434.M.250.B.B</M>
+<M ID="G">D434.M.250.B.G</M>
+<M ID="I">D434.M.250.B.I</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D321.M.250.F.A">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d321</P>
+</PEERS>
+<MODELS>
+<M ID="B">D321.M.250.F.B</M>
+<M ID="C">D321.M.250.F.C</M>
+<M ID="F">D321.M.250.F.F</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D321.M.250.F.B">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d321</P>
+</PEERS>
+<MODELS>
+<M ID="A">D321.M.250.F.A</M>
+<M ID="C">D321.M.250.F.C</M>
+<M ID="F">D321.M.250.F.F</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D321.M.250.F.C">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d321</P>
+</PEERS>
+<MODELS>
+<M ID="A">D321.M.250.F.A</M>
+<M ID="B">D321.M.250.F.B</M>
+<M ID="F">D321.M.250.F.F</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D321.M.250.F.F">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d321</P>
+</PEERS>
+<MODELS>
+<M ID="A">D321.M.250.F.A</M>
+<M ID="B">D321.M.250.F.B</M>
+<M ID="C">D321.M.250.F.C</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D391.M.250.H.A">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d391</P>
+</PEERS>
+<MODELS>
+<M ID="B">D391.M.250.H.B</M>
+<M ID="C">D391.M.250.H.C</M>
+<M ID="E">D391.M.250.H.E</M>
+<M ID="F">D391.M.250.H.F</M>
+<M ID="G">D391.M.250.H.G</M>
+<M ID="H">D391.M.250.H.H</M>
+<M ID="I">D391.M.250.H.I</M>
+<M ID="J">D391.M.250.H.J</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D391.M.250.H.B">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d391</P>
+</PEERS>
+<MODELS>
+<M ID="A">D391.M.250.H.A</M>
+<M ID="C">D391.M.250.H.C</M>
+<M ID="E">D391.M.250.H.E</M>
+<M ID="F">D391.M.250.H.F</M>
+<M ID="G">D391.M.250.H.G</M>
+<M ID="H">D391.M.250.H.H</M>
+<M ID="I">D391.M.250.H.I</M>
+<M ID="J">D391.M.250.H.J</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D391.M.250.H.C">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d391</P>
+</PEERS>
+<MODELS>
+<M ID="A">D391.M.250.H.A</M>
+<M ID="B">D391.M.250.H.B</M>
+<M ID="E">D391.M.250.H.E</M>
+<M ID="F">D391.M.250.H.F</M>
+<M ID="G">D391.M.250.H.G</M>
+<M ID="H">D391.M.250.H.H</M>
+<M ID="I">D391.M.250.H.I</M>
+<M ID="J">D391.M.250.H.J</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D391.M.250.H.E">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d391</P>
+</PEERS>
+<MODELS>
+<M ID="A">D391.M.250.H.A</M>
+<M ID="B">D391.M.250.H.B</M>
+<M ID="C">D391.M.250.H.C</M>
+<M ID="F">D391.M.250.H.F</M>
+<M ID="G">D391.M.250.H.G</M>
+<M ID="H">D391.M.250.H.H</M>
+<M ID="I">D391.M.250.H.I</M>
+<M ID="J">D391.M.250.H.J</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D391.M.250.H.F">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d391</P>
+</PEERS>
+<MODELS>
+<M ID="A">D391.M.250.H.A</M>
+<M ID="B">D391.M.250.H.B</M>
+<M ID="C">D391.M.250.H.C</M>
+<M ID="E">D391.M.250.H.E</M>
+<M ID="G">D391.M.250.H.G</M>
+<M ID="H">D391.M.250.H.H</M>
+<M ID="I">D391.M.250.H.I</M>
+<M ID="J">D391.M.250.H.J</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D391.M.250.H.G">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d391</P>
+</PEERS>
+<MODELS>
+<M ID="A">D391.M.250.H.A</M>
+<M ID="B">D391.M.250.H.B</M>
+<M ID="C">D391.M.250.H.C</M>
+<M ID="E">D391.M.250.H.E</M>
+<M ID="F">D391.M.250.H.F</M>
+<M ID="H">D391.M.250.H.H</M>
+<M ID="I">D391.M.250.H.I</M>
+<M ID="J">D391.M.250.H.J</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D391.M.250.H.H">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d391</P>
+</PEERS>
+<MODELS>
+<M ID="A">D391.M.250.H.A</M>
+<M ID="B">D391.M.250.H.B</M>
+<M ID="C">D391.M.250.H.C</M>
+<M ID="E">D391.M.250.H.E</M>
+<M ID="F">D391.M.250.H.F</M>
+<M ID="G">D391.M.250.H.G</M>
+<M ID="I">D391.M.250.H.I</M>
+<M ID="J">D391.M.250.H.J</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D391.M.250.H.I">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d391</P>
+</PEERS>
+<MODELS>
+<M ID="A">D391.M.250.H.A</M>
+<M ID="B">D391.M.250.H.B</M>
+<M ID="C">D391.M.250.H.C</M>
+<M ID="E">D391.M.250.H.E</M>
+<M ID="F">D391.M.250.H.F</M>
+<M ID="G">D391.M.250.H.G</M>
+<M ID="H">D391.M.250.H.H</M>
+<M ID="J">D391.M.250.H.J</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D391.M.250.H.J">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d391</P>
+</PEERS>
+<MODELS>
+<M ID="A">D391.M.250.H.A</M>
+<M ID="B">D391.M.250.H.B</M>
+<M ID="C">D391.M.250.H.C</M>
+<M ID="E">D391.M.250.H.E</M>
+<M ID="F">D391.M.250.H.F</M>
+<M ID="G">D391.M.250.H.G</M>
+<M ID="H">D391.M.250.H.H</M>
+<M ID="I">D391.M.250.H.I</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D408.M.250.C.C">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d408</P>
+</PEERS>
+<MODELS>
+<M ID="H">D408.M.250.C.H</M>
+<M ID="I">D408.M.250.C.I</M>
+<M ID="J">D408.M.250.C.J</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D408.M.250.C.H">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d408</P>
+</PEERS>
+<MODELS>
+<M ID="C">D408.M.250.C.C</M>
+<M ID="I">D408.M.250.C.I</M>
+<M ID="J">D408.M.250.C.J</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D408.M.250.C.I">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d408</P>
+</PEERS>
+<MODELS>
+<M ID="C">D408.M.250.C.C</M>
+<M ID="H">D408.M.250.C.H</M>
+<M ID="J">D408.M.250.C.J</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D408.M.250.C.J">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d408</P>
+</PEERS>
+<MODELS>
+<M ID="C">D408.M.250.C.C</M>
+<M ID="H">D408.M.250.C.H</M>
+<M ID="I">D408.M.250.C.I</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D400.M.250.B.A">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d400</P>
+</PEERS>
+<MODELS>
+<M ID="B">D400.M.250.B.B</M>
+<M ID="C">D400.M.250.B.C</M>
+<M ID="D">D400.M.250.B.D</M>
+<M ID="E">D400.M.250.B.E</M>
+<M ID="G">D400.M.250.B.G</M>
+<M ID="H">D400.M.250.B.H</M>
+<M ID="I">D400.M.250.B.I</M>
+<M ID="J">D400.M.250.B.J</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D400.M.250.B.B">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d400</P>
+</PEERS>
+<MODELS>
+<M ID="A">D400.M.250.B.A</M>
+<M ID="C">D400.M.250.B.C</M>
+<M ID="D">D400.M.250.B.D</M>
+<M ID="E">D400.M.250.B.E</M>
+<M ID="G">D400.M.250.B.G</M>
+<M ID="H">D400.M.250.B.H</M>
+<M ID="I">D400.M.250.B.I</M>
+<M ID="J">D400.M.250.B.J</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D400.M.250.B.C">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d400</P>
+</PEERS>
+<MODELS>
+<M ID="A">D400.M.250.B.A</M>
+<M ID="B">D400.M.250.B.B</M>
+<M ID="D">D400.M.250.B.D</M>
+<M ID="E">D400.M.250.B.E</M>
+<M ID="G">D400.M.250.B.G</M>
+<M ID="H">D400.M.250.B.H</M>
+<M ID="I">D400.M.250.B.I</M>
+<M ID="J">D400.M.250.B.J</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D400.M.250.B.D">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d400</P>
+</PEERS>
+<MODELS>
+<M ID="A">D400.M.250.B.A</M>
+<M ID="B">D400.M.250.B.B</M>
+<M ID="C">D400.M.250.B.C</M>
+<M ID="E">D400.M.250.B.E</M>
+<M ID="G">D400.M.250.B.G</M>
+<M ID="H">D400.M.250.B.H</M>
+<M ID="I">D400.M.250.B.I</M>
+<M ID="J">D400.M.250.B.J</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D400.M.250.B.E">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d400</P>
+</PEERS>
+<MODELS>
+<M ID="A">D400.M.250.B.A</M>
+<M ID="B">D400.M.250.B.B</M>
+<M ID="C">D400.M.250.B.C</M>
+<M ID="D">D400.M.250.B.D</M>
+<M ID="G">D400.M.250.B.G</M>
+<M ID="H">D400.M.250.B.H</M>
+<M ID="I">D400.M.250.B.I</M>
+<M ID="J">D400.M.250.B.J</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D400.M.250.B.G">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d400</P>
+</PEERS>
+<MODELS>
+<M ID="A">D400.M.250.B.A</M>
+<M ID="B">D400.M.250.B.B</M>
+<M ID="C">D400.M.250.B.C</M>
+<M ID="D">D400.M.250.B.D</M>
+<M ID="E">D400.M.250.B.E</M>
+<M ID="H">D400.M.250.B.H</M>
+<M ID="I">D400.M.250.B.I</M>
+<M ID="J">D400.M.250.B.J</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D400.M.250.B.H">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d400</P>
+</PEERS>
+<MODELS>
+<M ID="A">D400.M.250.B.A</M>
+<M ID="B">D400.M.250.B.B</M>
+<M ID="C">D400.M.250.B.C</M>
+<M ID="D">D400.M.250.B.D</M>
+<M ID="E">D400.M.250.B.E</M>
+<M ID="G">D400.M.250.B.G</M>
+<M ID="I">D400.M.250.B.I</M>
+<M ID="J">D400.M.250.B.J</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D400.M.250.B.I">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d400</P>
+</PEERS>
+<MODELS>
+<M ID="A">D400.M.250.B.A</M>
+<M ID="B">D400.M.250.B.B</M>
+<M ID="C">D400.M.250.B.C</M>
+<M ID="D">D400.M.250.B.D</M>
+<M ID="E">D400.M.250.B.E</M>
+<M ID="G">D400.M.250.B.G</M>
+<M ID="H">D400.M.250.B.H</M>
+<M ID="J">D400.M.250.B.J</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D400.M.250.B.J">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d400</P>
+</PEERS>
+<MODELS>
+<M ID="A">D400.M.250.B.A</M>
+<M ID="B">D400.M.250.B.B</M>
+<M ID="C">D400.M.250.B.C</M>
+<M ID="D">D400.M.250.B.D</M>
+<M ID="E">D400.M.250.B.E</M>
+<M ID="G">D400.M.250.B.G</M>
+<M ID="H">D400.M.250.B.H</M>
+<M ID="I">D400.M.250.B.I</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D383.M.250.J.D">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d383</P>
+</PEERS>
+<MODELS>
+<M ID="E">D383.M.250.J.E</M>
+<M ID="F">D383.M.250.J.F</M>
+<M ID="J">D383.M.250.J.J</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D383.M.250.J.E">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d383</P>
+</PEERS>
+<MODELS>
+<M ID="D">D383.M.250.J.D</M>
+<M ID="F">D383.M.250.J.F</M>
+<M ID="J">D383.M.250.J.J</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D383.M.250.J.F">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d383</P>
+</PEERS>
+<MODELS>
+<M ID="D">D383.M.250.J.D</M>
+<M ID="E">D383.M.250.J.E</M>
+<M ID="J">D383.M.250.J.J</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D383.M.250.J.J">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d383</P>
+</PEERS>
+<MODELS>
+<M ID="D">D383.M.250.J.D</M>
+<M ID="E">D383.M.250.J.E</M>
+<M ID="F">D383.M.250.J.F</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D401.M.250.E.E">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d401</P>
+</PEERS>
+<MODELS>
+<M ID="F">D401.M.250.E.F</M>
+<M ID="G">D401.M.250.E.G</M>
+<M ID="J">D401.M.250.E.J</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D401.M.250.E.F">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d401</P>
+</PEERS>
+<MODELS>
+<M ID="E">D401.M.250.E.E</M>
+<M ID="G">D401.M.250.E.G</M>
+<M ID="J">D401.M.250.E.J</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D401.M.250.E.G">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d401</P>
+</PEERS>
+<MODELS>
+<M ID="E">D401.M.250.E.E</M>
+<M ID="F">D401.M.250.E.F</M>
+<M ID="J">D401.M.250.E.J</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D401.M.250.E.J">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d401</P>
+</PEERS>
+<MODELS>
+<M ID="E">D401.M.250.E.E</M>
+<M ID="F">D401.M.250.E.F</M>
+<M ID="G">D401.M.250.E.G</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D442.M.250.G.G">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d442</P>
+</PEERS>
+<MODELS>
+<M ID="H">D442.M.250.G.H</M>
+<M ID="I">D442.M.250.G.I</M>
+<M ID="J">D442.M.250.G.J</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D442.M.250.G.H">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d442</P>
+</PEERS>
+<MODELS>
+<M ID="G">D442.M.250.G.G</M>
+<M ID="I">D442.M.250.G.I</M>
+<M ID="J">D442.M.250.G.J</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D442.M.250.G.I">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d442</P>
+</PEERS>
+<MODELS>
+<M ID="G">D442.M.250.G.G</M>
+<M ID="H">D442.M.250.G.H</M>
+<M ID="J">D442.M.250.G.J</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D442.M.250.G.J">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d442</P>
+</PEERS>
+<MODELS>
+<M ID="G">D442.M.250.G.G</M>
+<M ID="H">D442.M.250.G.H</M>
+<M ID="I">D442.M.250.G.I</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D354.M.250.C.B">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d354</P>
+</PEERS>
+<MODELS>
+<M ID="C">D354.M.250.C.C</M>
+<M ID="D">D354.M.250.C.D</M>
+<M ID="E">D354.M.250.C.E</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D354.M.250.C.C">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d354</P>
+</PEERS>
+<MODELS>
+<M ID="B">D354.M.250.C.B</M>
+<M ID="D">D354.M.250.C.D</M>
+<M ID="E">D354.M.250.C.E</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D354.M.250.C.D">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d354</P>
+</PEERS>
+<MODELS>
+<M ID="B">D354.M.250.C.B</M>
+<M ID="C">D354.M.250.C.C</M>
+<M ID="E">D354.M.250.C.E</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D354.M.250.C.E">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d354</P>
+</PEERS>
+<MODELS>
+<M ID="B">D354.M.250.C.B</M>
+<M ID="C">D354.M.250.C.C</M>
+<M ID="D">D354.M.250.C.D</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D343.M.250.C.A">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d343</P>
+</PEERS>
+<MODELS>
+<M ID="B">D343.M.250.C.B</M>
+<M ID="C">D343.M.250.C.C</M>
+<M ID="D">D343.M.250.C.D</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D343.M.250.C.B">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d343</P>
+</PEERS>
+<MODELS>
+<M ID="A">D343.M.250.C.A</M>
+<M ID="C">D343.M.250.C.C</M>
+<M ID="D">D343.M.250.C.D</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D343.M.250.C.C">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d343</P>
+</PEERS>
+<MODELS>
+<M ID="A">D343.M.250.C.A</M>
+<M ID="B">D343.M.250.C.B</M>
+<M ID="D">D343.M.250.C.D</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D343.M.250.C.D">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d343</P>
+</PEERS>
+<MODELS>
+<M ID="A">D343.M.250.C.A</M>
+<M ID="B">D343.M.250.C.B</M>
+<M ID="C">D343.M.250.C.C</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D307.M.250.B.A">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d307</P>
+</PEERS>
+<MODELS>
+<M ID="B">D307.M.250.B.B</M>
+<M ID="C">D307.M.250.B.C</M>
+<M ID="D">D307.M.250.B.D</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D307.M.250.B.B">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d307</P>
+</PEERS>
+<MODELS>
+<M ID="A">D307.M.250.B.A</M>
+<M ID="C">D307.M.250.B.C</M>
+<M ID="D">D307.M.250.B.D</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D307.M.250.B.C">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d307</P>
+</PEERS>
+<MODELS>
+<M ID="A">D307.M.250.B.A</M>
+<M ID="B">D307.M.250.B.B</M>
+<M ID="D">D307.M.250.B.D</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D307.M.250.B.D">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d307</P>
+</PEERS>
+<MODELS>
+<M ID="A">D307.M.250.B.A</M>
+<M ID="B">D307.M.250.B.B</M>
+<M ID="C">D307.M.250.B.C</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D357.M.250.I.D">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d357</P>
+</PEERS>
+<MODELS>
+<M ID="E">D357.M.250.I.E</M>
+<M ID="F">D357.M.250.I.F</M>
+<M ID="I">D357.M.250.I.I</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D357.M.250.I.E">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d357</P>
+</PEERS>
+<MODELS>
+<M ID="D">D357.M.250.I.D</M>
+<M ID="F">D357.M.250.I.F</M>
+<M ID="I">D357.M.250.I.I</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D357.M.250.I.F">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d357</P>
+</PEERS>
+<MODELS>
+<M ID="D">D357.M.250.I.D</M>
+<M ID="E">D357.M.250.I.E</M>
+<M ID="I">D357.M.250.I.I</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D357.M.250.I.I">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d357</P>
+</PEERS>
+<MODELS>
+<M ID="D">D357.M.250.I.D</M>
+<M ID="E">D357.M.250.I.E</M>
+<M ID="F">D357.M.250.I.F</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D683.M.250.J.A">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d683</P>
+</PEERS>
+<MODELS>
+<M ID="B">D683.M.250.J.B</M>
+<M ID="C">D683.M.250.J.C</M>
+<M ID="D">D683.M.250.J.D</M>
+<M ID="E">D683.M.250.J.E</M>
+<M ID="F">D683.M.250.J.F</M>
+<M ID="G">D683.M.250.J.G</M>
+<M ID="H">D683.M.250.J.H</M>
+<M ID="J">D683.M.250.J.J</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D683.M.250.J.B">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d683</P>
+</PEERS>
+<MODELS>
+<M ID="A">D683.M.250.J.A</M>
+<M ID="C">D683.M.250.J.C</M>
+<M ID="D">D683.M.250.J.D</M>
+<M ID="E">D683.M.250.J.E</M>
+<M ID="F">D683.M.250.J.F</M>
+<M ID="G">D683.M.250.J.G</M>
+<M ID="H">D683.M.250.J.H</M>
+<M ID="J">D683.M.250.J.J</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D683.M.250.J.C">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d683</P>
+</PEERS>
+<MODELS>
+<M ID="A">D683.M.250.J.A</M>
+<M ID="B">D683.M.250.J.B</M>
+<M ID="D">D683.M.250.J.D</M>
+<M ID="E">D683.M.250.J.E</M>
+<M ID="F">D683.M.250.J.F</M>
+<M ID="G">D683.M.250.J.G</M>
+<M ID="H">D683.M.250.J.H</M>
+<M ID="J">D683.M.250.J.J</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D683.M.250.J.D">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d683</P>
+</PEERS>
+<MODELS>
+<M ID="A">D683.M.250.J.A</M>
+<M ID="B">D683.M.250.J.B</M>
+<M ID="C">D683.M.250.J.C</M>
+<M ID="E">D683.M.250.J.E</M>
+<M ID="F">D683.M.250.J.F</M>
+<M ID="G">D683.M.250.J.G</M>
+<M ID="H">D683.M.250.J.H</M>
+<M ID="J">D683.M.250.J.J</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D683.M.250.J.E">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d683</P>
+</PEERS>
+<MODELS>
+<M ID="A">D683.M.250.J.A</M>
+<M ID="B">D683.M.250.J.B</M>
+<M ID="C">D683.M.250.J.C</M>
+<M ID="D">D683.M.250.J.D</M>
+<M ID="F">D683.M.250.J.F</M>
+<M ID="G">D683.M.250.J.G</M>
+<M ID="H">D683.M.250.J.H</M>
+<M ID="J">D683.M.250.J.J</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D683.M.250.J.F">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d683</P>
+</PEERS>
+<MODELS>
+<M ID="A">D683.M.250.J.A</M>
+<M ID="B">D683.M.250.J.B</M>
+<M ID="C">D683.M.250.J.C</M>
+<M ID="D">D683.M.250.J.D</M>
+<M ID="E">D683.M.250.J.E</M>
+<M ID="G">D683.M.250.J.G</M>
+<M ID="H">D683.M.250.J.H</M>
+<M ID="J">D683.M.250.J.J</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D683.M.250.J.G">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d683</P>
+</PEERS>
+<MODELS>
+<M ID="A">D683.M.250.J.A</M>
+<M ID="B">D683.M.250.J.B</M>
+<M ID="C">D683.M.250.J.C</M>
+<M ID="D">D683.M.250.J.D</M>
+<M ID="E">D683.M.250.J.E</M>
+<M ID="F">D683.M.250.J.F</M>
+<M ID="H">D683.M.250.J.H</M>
+<M ID="J">D683.M.250.J.J</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D683.M.250.J.H">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d683</P>
+</PEERS>
+<MODELS>
+<M ID="A">D683.M.250.J.A</M>
+<M ID="B">D683.M.250.J.B</M>
+<M ID="C">D683.M.250.J.C</M>
+<M ID="D">D683.M.250.J.D</M>
+<M ID="E">D683.M.250.J.E</M>
+<M ID="F">D683.M.250.J.F</M>
+<M ID="G">D683.M.250.J.G</M>
+<M ID="J">D683.M.250.J.J</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D683.M.250.J.J">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d683</P>
+</PEERS>
+<MODELS>
+<M ID="A">D683.M.250.J.A</M>
+<M ID="B">D683.M.250.J.B</M>
+<M ID="C">D683.M.250.J.C</M>
+<M ID="D">D683.M.250.J.D</M>
+<M ID="E">D683.M.250.J.E</M>
+<M ID="F">D683.M.250.J.F</M>
+<M ID="G">D683.M.250.J.G</M>
+<M ID="H">D683.M.250.J.H</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D694.M.250.J.G">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d694</P>
+</PEERS>
+<MODELS>
+<M ID="H">D694.M.250.J.H</M>
+<M ID="I">D694.M.250.J.I</M>
+<M ID="J">D694.M.250.J.J</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D694.M.250.J.H">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d694</P>
+</PEERS>
+<MODELS>
+<M ID="G">D694.M.250.J.G</M>
+<M ID="I">D694.M.250.J.I</M>
+<M ID="J">D694.M.250.J.J</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D694.M.250.J.I">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d694</P>
+</PEERS>
+<MODELS>
+<M ID="G">D694.M.250.J.G</M>
+<M ID="H">D694.M.250.J.H</M>
+<M ID="J">D694.M.250.J.J</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D694.M.250.J.J">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d694</P>
+</PEERS>
+<MODELS>
+<M ID="G">D694.M.250.J.G</M>
+<M ID="H">D694.M.250.J.H</M>
+<M ID="I">D694.M.250.J.I</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D389.M.250.H.D">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d389</P>
+</PEERS>
+<MODELS>
+<M ID="E">D389.M.250.H.E</M>
+<M ID="F">D389.M.250.H.F</M>
+<M ID="H">D389.M.250.H.H</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D389.M.250.H.E">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d389</P>
+</PEERS>
+<MODELS>
+<M ID="D">D389.M.250.H.D</M>
+<M ID="F">D389.M.250.H.F</M>
+<M ID="H">D389.M.250.H.H</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D389.M.250.H.F">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d389</P>
+</PEERS>
+<MODELS>
+<M ID="D">D389.M.250.H.D</M>
+<M ID="E">D389.M.250.H.E</M>
+<M ID="H">D389.M.250.H.H</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D389.M.250.H.H">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d389</P>
+</PEERS>
+<MODELS>
+<M ID="D">D389.M.250.H.D</M>
+<M ID="E">D389.M.250.H.E</M>
+<M ID="F">D389.M.250.H.F</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D695.M.250.C.A">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d695</P>
+</PEERS>
+<MODELS>
+<M ID="B">D695.M.250.C.B</M>
+<M ID="C">D695.M.250.C.C</M>
+<M ID="D">D695.M.250.C.D</M>
+<M ID="E">D695.M.250.C.E</M>
+<M ID="F">D695.M.250.C.F</M>
+<M ID="G">D695.M.250.C.G</M>
+<M ID="H">D695.M.250.C.H</M>
+<M ID="J">D695.M.250.C.J</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D695.M.250.C.B">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d695</P>
+</PEERS>
+<MODELS>
+<M ID="A">D695.M.250.C.A</M>
+<M ID="C">D695.M.250.C.C</M>
+<M ID="D">D695.M.250.C.D</M>
+<M ID="E">D695.M.250.C.E</M>
+<M ID="F">D695.M.250.C.F</M>
+<M ID="G">D695.M.250.C.G</M>
+<M ID="H">D695.M.250.C.H</M>
+<M ID="J">D695.M.250.C.J</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D695.M.250.C.C">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d695</P>
+</PEERS>
+<MODELS>
+<M ID="A">D695.M.250.C.A</M>
+<M ID="B">D695.M.250.C.B</M>
+<M ID="D">D695.M.250.C.D</M>
+<M ID="E">D695.M.250.C.E</M>
+<M ID="F">D695.M.250.C.F</M>
+<M ID="G">D695.M.250.C.G</M>
+<M ID="H">D695.M.250.C.H</M>
+<M ID="J">D695.M.250.C.J</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D695.M.250.C.D">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d695</P>
+</PEERS>
+<MODELS>
+<M ID="A">D695.M.250.C.A</M>
+<M ID="B">D695.M.250.C.B</M>
+<M ID="C">D695.M.250.C.C</M>
+<M ID="E">D695.M.250.C.E</M>
+<M ID="F">D695.M.250.C.F</M>
+<M ID="G">D695.M.250.C.G</M>
+<M ID="H">D695.M.250.C.H</M>
+<M ID="J">D695.M.250.C.J</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D695.M.250.C.E">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d695</P>
+</PEERS>
+<MODELS>
+<M ID="A">D695.M.250.C.A</M>
+<M ID="B">D695.M.250.C.B</M>
+<M ID="C">D695.M.250.C.C</M>
+<M ID="D">D695.M.250.C.D</M>
+<M ID="F">D695.M.250.C.F</M>
+<M ID="G">D695.M.250.C.G</M>
+<M ID="H">D695.M.250.C.H</M>
+<M ID="J">D695.M.250.C.J</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D695.M.250.C.F">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d695</P>
+</PEERS>
+<MODELS>
+<M ID="A">D695.M.250.C.A</M>
+<M ID="B">D695.M.250.C.B</M>
+<M ID="C">D695.M.250.C.C</M>
+<M ID="D">D695.M.250.C.D</M>
+<M ID="E">D695.M.250.C.E</M>
+<M ID="G">D695.M.250.C.G</M>
+<M ID="H">D695.M.250.C.H</M>
+<M ID="J">D695.M.250.C.J</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D695.M.250.C.G">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d695</P>
+</PEERS>
+<MODELS>
+<M ID="A">D695.M.250.C.A</M>
+<M ID="B">D695.M.250.C.B</M>
+<M ID="C">D695.M.250.C.C</M>
+<M ID="D">D695.M.250.C.D</M>
+<M ID="E">D695.M.250.C.E</M>
+<M ID="F">D695.M.250.C.F</M>
+<M ID="H">D695.M.250.C.H</M>
+<M ID="J">D695.M.250.C.J</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D695.M.250.C.H">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d695</P>
+</PEERS>
+<MODELS>
+<M ID="A">D695.M.250.C.A</M>
+<M ID="B">D695.M.250.C.B</M>
+<M ID="C">D695.M.250.C.C</M>
+<M ID="D">D695.M.250.C.D</M>
+<M ID="E">D695.M.250.C.E</M>
+<M ID="F">D695.M.250.C.F</M>
+<M ID="G">D695.M.250.C.G</M>
+<M ID="J">D695.M.250.C.J</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D695.M.250.C.J">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d695</P>
+</PEERS>
+<MODELS>
+<M ID="A">D695.M.250.C.A</M>
+<M ID="B">D695.M.250.C.B</M>
+<M ID="C">D695.M.250.C.C</M>
+<M ID="D">D695.M.250.C.D</M>
+<M ID="E">D695.M.250.C.E</M>
+<M ID="F">D695.M.250.C.F</M>
+<M ID="G">D695.M.250.C.G</M>
+<M ID="H">D695.M.250.C.H</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D654.M.250.F.A">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d654</P>
+</PEERS>
+<MODELS>
+<M ID="B">D654.M.250.F.B</M>
+<M ID="C">D654.M.250.F.C</M>
+<M ID="D">D654.M.250.F.D</M>
+<M ID="E">D654.M.250.F.E</M>
+<M ID="F">D654.M.250.F.F</M>
+<M ID="G">D654.M.250.F.G</M>
+<M ID="H">D654.M.250.F.H</M>
+<M ID="J">D654.M.250.F.J</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D654.M.250.F.B">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d654</P>
+</PEERS>
+<MODELS>
+<M ID="A">D654.M.250.F.A</M>
+<M ID="C">D654.M.250.F.C</M>
+<M ID="D">D654.M.250.F.D</M>
+<M ID="E">D654.M.250.F.E</M>
+<M ID="F">D654.M.250.F.F</M>
+<M ID="G">D654.M.250.F.G</M>
+<M ID="H">D654.M.250.F.H</M>
+<M ID="J">D654.M.250.F.J</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D654.M.250.F.C">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d654</P>
+</PEERS>
+<MODELS>
+<M ID="A">D654.M.250.F.A</M>
+<M ID="B">D654.M.250.F.B</M>
+<M ID="D">D654.M.250.F.D</M>
+<M ID="E">D654.M.250.F.E</M>
+<M ID="F">D654.M.250.F.F</M>
+<M ID="G">D654.M.250.F.G</M>
+<M ID="H">D654.M.250.F.H</M>
+<M ID="J">D654.M.250.F.J</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D654.M.250.F.D">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d654</P>
+</PEERS>
+<MODELS>
+<M ID="A">D654.M.250.F.A</M>
+<M ID="B">D654.M.250.F.B</M>
+<M ID="C">D654.M.250.F.C</M>
+<M ID="E">D654.M.250.F.E</M>
+<M ID="F">D654.M.250.F.F</M>
+<M ID="G">D654.M.250.F.G</M>
+<M ID="H">D654.M.250.F.H</M>
+<M ID="J">D654.M.250.F.J</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D654.M.250.F.E">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d654</P>
+</PEERS>
+<MODELS>
+<M ID="A">D654.M.250.F.A</M>
+<M ID="B">D654.M.250.F.B</M>
+<M ID="C">D654.M.250.F.C</M>
+<M ID="D">D654.M.250.F.D</M>
+<M ID="F">D654.M.250.F.F</M>
+<M ID="G">D654.M.250.F.G</M>
+<M ID="H">D654.M.250.F.H</M>
+<M ID="J">D654.M.250.F.J</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D654.M.250.F.F">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d654</P>
+</PEERS>
+<MODELS>
+<M ID="A">D654.M.250.F.A</M>
+<M ID="B">D654.M.250.F.B</M>
+<M ID="C">D654.M.250.F.C</M>
+<M ID="D">D654.M.250.F.D</M>
+<M ID="E">D654.M.250.F.E</M>
+<M ID="G">D654.M.250.F.G</M>
+<M ID="H">D654.M.250.F.H</M>
+<M ID="J">D654.M.250.F.J</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D654.M.250.F.G">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d654</P>
+</PEERS>
+<MODELS>
+<M ID="A">D654.M.250.F.A</M>
+<M ID="B">D654.M.250.F.B</M>
+<M ID="C">D654.M.250.F.C</M>
+<M ID="D">D654.M.250.F.D</M>
+<M ID="E">D654.M.250.F.E</M>
+<M ID="F">D654.M.250.F.F</M>
+<M ID="H">D654.M.250.F.H</M>
+<M ID="J">D654.M.250.F.J</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D654.M.250.F.H">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d654</P>
+</PEERS>
+<MODELS>
+<M ID="A">D654.M.250.F.A</M>
+<M ID="B">D654.M.250.F.B</M>
+<M ID="C">D654.M.250.F.C</M>
+<M ID="D">D654.M.250.F.D</M>
+<M ID="E">D654.M.250.F.E</M>
+<M ID="F">D654.M.250.F.F</M>
+<M ID="G">D654.M.250.F.G</M>
+<M ID="J">D654.M.250.F.J</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D654.M.250.F.J">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d654</P>
+</PEERS>
+<MODELS>
+<M ID="A">D654.M.250.F.A</M>
+<M ID="B">D654.M.250.F.B</M>
+<M ID="C">D654.M.250.F.C</M>
+<M ID="D">D654.M.250.F.D</M>
+<M ID="E">D654.M.250.F.E</M>
+<M ID="F">D654.M.250.F.F</M>
+<M ID="G">D654.M.250.F.G</M>
+<M ID="H">D654.M.250.F.H</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D332.M.250.H.A">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d332</P>
+</PEERS>
+<MODELS>
+<M ID="B">D332.M.250.H.B</M>
+<M ID="C">D332.M.250.H.C</M>
+<M ID="H">D332.M.250.H.H</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D332.M.250.H.B">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d332</P>
+</PEERS>
+<MODELS>
+<M ID="A">D332.M.250.H.A</M>
+<M ID="C">D332.M.250.H.C</M>
+<M ID="H">D332.M.250.H.H</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D332.M.250.H.C">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d332</P>
+</PEERS>
+<MODELS>
+<M ID="A">D332.M.250.H.A</M>
+<M ID="B">D332.M.250.H.B</M>
+<M ID="H">D332.M.250.H.H</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D332.M.250.H.H">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d332</P>
+</PEERS>
+<MODELS>
+<M ID="A">D332.M.250.H.A</M>
+<M ID="B">D332.M.250.H.B</M>
+<M ID="C">D332.M.250.H.C</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D398.M.250.E.E">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d398</P>
+</PEERS>
+<MODELS>
+<M ID="F">D398.M.250.E.F</M>
+<M ID="G">D398.M.250.E.G</M>
+<M ID="H">D398.M.250.E.H</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D398.M.250.E.F">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d398</P>
+</PEERS>
+<MODELS>
+<M ID="E">D398.M.250.E.E</M>
+<M ID="G">D398.M.250.E.G</M>
+<M ID="H">D398.M.250.E.H</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D398.M.250.E.G">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d398</P>
+</PEERS>
+<MODELS>
+<M ID="E">D398.M.250.E.E</M>
+<M ID="F">D398.M.250.E.F</M>
+<M ID="H">D398.M.250.E.H</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D398.M.250.E.H">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d398</P>
+</PEERS>
+<MODELS>
+<M ID="E">D398.M.250.E.E</M>
+<M ID="F">D398.M.250.E.F</M>
+<M ID="G">D398.M.250.E.G</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D435.M.250.F.A">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d435</P>
+</PEERS>
+<MODELS>
+<M ID="B">D435.M.250.F.B</M>
+<M ID="C">D435.M.250.F.C</M>
+<M ID="D">D435.M.250.F.D</M>
+<M ID="E">D435.M.250.F.E</M>
+<M ID="F">D435.M.250.F.F</M>
+<M ID="G">D435.M.250.F.G</M>
+<M ID="H">D435.M.250.F.H</M>
+<M ID="J">D435.M.250.F.J</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D435.M.250.F.B">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d435</P>
+</PEERS>
+<MODELS>
+<M ID="A">D435.M.250.F.A</M>
+<M ID="C">D435.M.250.F.C</M>
+<M ID="D">D435.M.250.F.D</M>
+<M ID="E">D435.M.250.F.E</M>
+<M ID="F">D435.M.250.F.F</M>
+<M ID="G">D435.M.250.F.G</M>
+<M ID="H">D435.M.250.F.H</M>
+<M ID="J">D435.M.250.F.J</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D435.M.250.F.C">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d435</P>
+</PEERS>
+<MODELS>
+<M ID="A">D435.M.250.F.A</M>
+<M ID="B">D435.M.250.F.B</M>
+<M ID="D">D435.M.250.F.D</M>
+<M ID="E">D435.M.250.F.E</M>
+<M ID="F">D435.M.250.F.F</M>
+<M ID="G">D435.M.250.F.G</M>
+<M ID="H">D435.M.250.F.H</M>
+<M ID="J">D435.M.250.F.J</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D435.M.250.F.D">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d435</P>
+</PEERS>
+<MODELS>
+<M ID="A">D435.M.250.F.A</M>
+<M ID="B">D435.M.250.F.B</M>
+<M ID="C">D435.M.250.F.C</M>
+<M ID="E">D435.M.250.F.E</M>
+<M ID="F">D435.M.250.F.F</M>
+<M ID="G">D435.M.250.F.G</M>
+<M ID="H">D435.M.250.F.H</M>
+<M ID="J">D435.M.250.F.J</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D435.M.250.F.E">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d435</P>
+</PEERS>
+<MODELS>
+<M ID="A">D435.M.250.F.A</M>
+<M ID="B">D435.M.250.F.B</M>
+<M ID="C">D435.M.250.F.C</M>
+<M ID="D">D435.M.250.F.D</M>
+<M ID="F">D435.M.250.F.F</M>
+<M ID="G">D435.M.250.F.G</M>
+<M ID="H">D435.M.250.F.H</M>
+<M ID="J">D435.M.250.F.J</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D435.M.250.F.F">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d435</P>
+</PEERS>
+<MODELS>
+<M ID="A">D435.M.250.F.A</M>
+<M ID="B">D435.M.250.F.B</M>
+<M ID="C">D435.M.250.F.C</M>
+<M ID="D">D435.M.250.F.D</M>
+<M ID="E">D435.M.250.F.E</M>
+<M ID="G">D435.M.250.F.G</M>
+<M ID="H">D435.M.250.F.H</M>
+<M ID="J">D435.M.250.F.J</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D435.M.250.F.G">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d435</P>
+</PEERS>
+<MODELS>
+<M ID="A">D435.M.250.F.A</M>
+<M ID="B">D435.M.250.F.B</M>
+<M ID="C">D435.M.250.F.C</M>
+<M ID="D">D435.M.250.F.D</M>
+<M ID="E">D435.M.250.F.E</M>
+<M ID="F">D435.M.250.F.F</M>
+<M ID="H">D435.M.250.F.H</M>
+<M ID="J">D435.M.250.F.J</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D435.M.250.F.H">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d435</P>
+</PEERS>
+<MODELS>
+<M ID="A">D435.M.250.F.A</M>
+<M ID="B">D435.M.250.F.B</M>
+<M ID="C">D435.M.250.F.C</M>
+<M ID="D">D435.M.250.F.D</M>
+<M ID="E">D435.M.250.F.E</M>
+<M ID="F">D435.M.250.F.F</M>
+<M ID="G">D435.M.250.F.G</M>
+<M ID="J">D435.M.250.F.J</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D435.M.250.F.J">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d435</P>
+</PEERS>
+<MODELS>
+<M ID="A">D435.M.250.F.A</M>
+<M ID="B">D435.M.250.F.B</M>
+<M ID="C">D435.M.250.F.C</M>
+<M ID="D">D435.M.250.F.D</M>
+<M ID="E">D435.M.250.F.E</M>
+<M ID="F">D435.M.250.F.F</M>
+<M ID="G">D435.M.250.F.G</M>
+<M ID="H">D435.M.250.F.H</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D426.M.250.A.A">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d426</P>
+</PEERS>
+<MODELS>
+<M ID="B">D426.M.250.A.B</M>
+<M ID="C">D426.M.250.A.C</M>
+<M ID="D">D426.M.250.A.D</M>
+<M ID="E">D426.M.250.A.E</M>
+<M ID="F">D426.M.250.A.F</M>
+<M ID="G">D426.M.250.A.G</M>
+<M ID="H">D426.M.250.A.H</M>
+<M ID="J">D426.M.250.A.J</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D426.M.250.A.B">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d426</P>
+</PEERS>
+<MODELS>
+<M ID="A">D426.M.250.A.A</M>
+<M ID="C">D426.M.250.A.C</M>
+<M ID="D">D426.M.250.A.D</M>
+<M ID="E">D426.M.250.A.E</M>
+<M ID="F">D426.M.250.A.F</M>
+<M ID="G">D426.M.250.A.G</M>
+<M ID="H">D426.M.250.A.H</M>
+<M ID="J">D426.M.250.A.J</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D426.M.250.A.C">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d426</P>
+</PEERS>
+<MODELS>
+<M ID="A">D426.M.250.A.A</M>
+<M ID="B">D426.M.250.A.B</M>
+<M ID="D">D426.M.250.A.D</M>
+<M ID="E">D426.M.250.A.E</M>
+<M ID="F">D426.M.250.A.F</M>
+<M ID="G">D426.M.250.A.G</M>
+<M ID="H">D426.M.250.A.H</M>
+<M ID="J">D426.M.250.A.J</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D426.M.250.A.D">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d426</P>
+</PEERS>
+<MODELS>
+<M ID="A">D426.M.250.A.A</M>
+<M ID="B">D426.M.250.A.B</M>
+<M ID="C">D426.M.250.A.C</M>
+<M ID="E">D426.M.250.A.E</M>
+<M ID="F">D426.M.250.A.F</M>
+<M ID="G">D426.M.250.A.G</M>
+<M ID="H">D426.M.250.A.H</M>
+<M ID="J">D426.M.250.A.J</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D426.M.250.A.E">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d426</P>
+</PEERS>
+<MODELS>
+<M ID="A">D426.M.250.A.A</M>
+<M ID="B">D426.M.250.A.B</M>
+<M ID="C">D426.M.250.A.C</M>
+<M ID="D">D426.M.250.A.D</M>
+<M ID="F">D426.M.250.A.F</M>
+<M ID="G">D426.M.250.A.G</M>
+<M ID="H">D426.M.250.A.H</M>
+<M ID="J">D426.M.250.A.J</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D426.M.250.A.F">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d426</P>
+</PEERS>
+<MODELS>
+<M ID="A">D426.M.250.A.A</M>
+<M ID="B">D426.M.250.A.B</M>
+<M ID="C">D426.M.250.A.C</M>
+<M ID="D">D426.M.250.A.D</M>
+<M ID="E">D426.M.250.A.E</M>
+<M ID="G">D426.M.250.A.G</M>
+<M ID="H">D426.M.250.A.H</M>
+<M ID="J">D426.M.250.A.J</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D426.M.250.A.G">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d426</P>
+</PEERS>
+<MODELS>
+<M ID="A">D426.M.250.A.A</M>
+<M ID="B">D426.M.250.A.B</M>
+<M ID="C">D426.M.250.A.C</M>
+<M ID="D">D426.M.250.A.D</M>
+<M ID="E">D426.M.250.A.E</M>
+<M ID="F">D426.M.250.A.F</M>
+<M ID="H">D426.M.250.A.H</M>
+<M ID="J">D426.M.250.A.J</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D426.M.250.A.H">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d426</P>
+</PEERS>
+<MODELS>
+<M ID="A">D426.M.250.A.A</M>
+<M ID="B">D426.M.250.A.B</M>
+<M ID="C">D426.M.250.A.C</M>
+<M ID="D">D426.M.250.A.D</M>
+<M ID="E">D426.M.250.A.E</M>
+<M ID="F">D426.M.250.A.F</M>
+<M ID="G">D426.M.250.A.G</M>
+<M ID="J">D426.M.250.A.J</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D426.M.250.A.J">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d426</P>
+</PEERS>
+<MODELS>
+<M ID="A">D426.M.250.A.A</M>
+<M ID="B">D426.M.250.A.B</M>
+<M ID="C">D426.M.250.A.C</M>
+<M ID="D">D426.M.250.A.D</M>
+<M ID="E">D426.M.250.A.E</M>
+<M ID="F">D426.M.250.A.F</M>
+<M ID="G">D426.M.250.A.G</M>
+<M ID="H">D426.M.250.A.H</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D671.M.250.G.A">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d671</P>
+</PEERS>
+<MODELS>
+<M ID="B">D671.M.250.G.B</M>
+<M ID="C">D671.M.250.G.C</M>
+<M ID="D">D671.M.250.G.D</M>
+<M ID="E">D671.M.250.G.E</M>
+<M ID="F">D671.M.250.G.F</M>
+<M ID="G">D671.M.250.G.G</M>
+<M ID="H">D671.M.250.G.H</M>
+<M ID="J">D671.M.250.G.J</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D671.M.250.G.B">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d671</P>
+</PEERS>
+<MODELS>
+<M ID="A">D671.M.250.G.A</M>
+<M ID="C">D671.M.250.G.C</M>
+<M ID="D">D671.M.250.G.D</M>
+<M ID="E">D671.M.250.G.E</M>
+<M ID="F">D671.M.250.G.F</M>
+<M ID="G">D671.M.250.G.G</M>
+<M ID="H">D671.M.250.G.H</M>
+<M ID="J">D671.M.250.G.J</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D671.M.250.G.C">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d671</P>
+</PEERS>
+<MODELS>
+<M ID="A">D671.M.250.G.A</M>
+<M ID="B">D671.M.250.G.B</M>
+<M ID="D">D671.M.250.G.D</M>
+<M ID="E">D671.M.250.G.E</M>
+<M ID="F">D671.M.250.G.F</M>
+<M ID="G">D671.M.250.G.G</M>
+<M ID="H">D671.M.250.G.H</M>
+<M ID="J">D671.M.250.G.J</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D671.M.250.G.D">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d671</P>
+</PEERS>
+<MODELS>
+<M ID="A">D671.M.250.G.A</M>
+<M ID="B">D671.M.250.G.B</M>
+<M ID="C">D671.M.250.G.C</M>
+<M ID="E">D671.M.250.G.E</M>
+<M ID="F">D671.M.250.G.F</M>
+<M ID="G">D671.M.250.G.G</M>
+<M ID="H">D671.M.250.G.H</M>
+<M ID="J">D671.M.250.G.J</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D671.M.250.G.E">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d671</P>
+</PEERS>
+<MODELS>
+<M ID="A">D671.M.250.G.A</M>
+<M ID="B">D671.M.250.G.B</M>
+<M ID="C">D671.M.250.G.C</M>
+<M ID="D">D671.M.250.G.D</M>
+<M ID="F">D671.M.250.G.F</M>
+<M ID="G">D671.M.250.G.G</M>
+<M ID="H">D671.M.250.G.H</M>
+<M ID="J">D671.M.250.G.J</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D671.M.250.G.F">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d671</P>
+</PEERS>
+<MODELS>
+<M ID="A">D671.M.250.G.A</M>
+<M ID="B">D671.M.250.G.B</M>
+<M ID="C">D671.M.250.G.C</M>
+<M ID="D">D671.M.250.G.D</M>
+<M ID="E">D671.M.250.G.E</M>
+<M ID="G">D671.M.250.G.G</M>
+<M ID="H">D671.M.250.G.H</M>
+<M ID="J">D671.M.250.G.J</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D671.M.250.G.G">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d671</P>
+</PEERS>
+<MODELS>
+<M ID="A">D671.M.250.G.A</M>
+<M ID="B">D671.M.250.G.B</M>
+<M ID="C">D671.M.250.G.C</M>
+<M ID="D">D671.M.250.G.D</M>
+<M ID="E">D671.M.250.G.E</M>
+<M ID="F">D671.M.250.G.F</M>
+<M ID="H">D671.M.250.G.H</M>
+<M ID="J">D671.M.250.G.J</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D671.M.250.G.H">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d671</P>
+</PEERS>
+<MODELS>
+<M ID="A">D671.M.250.G.A</M>
+<M ID="B">D671.M.250.G.B</M>
+<M ID="C">D671.M.250.G.C</M>
+<M ID="D">D671.M.250.G.D</M>
+<M ID="E">D671.M.250.G.E</M>
+<M ID="F">D671.M.250.G.F</M>
+<M ID="G">D671.M.250.G.G</M>
+<M ID="J">D671.M.250.G.J</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D671.M.250.G.J">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d671</P>
+</PEERS>
+<MODELS>
+<M ID="A">D671.M.250.G.A</M>
+<M ID="B">D671.M.250.G.B</M>
+<M ID="C">D671.M.250.G.C</M>
+<M ID="D">D671.M.250.G.D</M>
+<M ID="E">D671.M.250.G.E</M>
+<M ID="F">D671.M.250.G.F</M>
+<M ID="G">D671.M.250.G.G</M>
+<M ID="H">D671.M.250.G.H</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D385.M.250.G.D">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d385</P>
+</PEERS>
+<MODELS>
+<M ID="E">D385.M.250.G.E</M>
+<M ID="F">D385.M.250.G.F</M>
+<M ID="G">D385.M.250.G.G</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D385.M.250.G.E">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d385</P>
+</PEERS>
+<MODELS>
+<M ID="D">D385.M.250.G.D</M>
+<M ID="F">D385.M.250.G.F</M>
+<M ID="G">D385.M.250.G.G</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D385.M.250.G.F">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d385</P>
+</PEERS>
+<MODELS>
+<M ID="D">D385.M.250.G.D</M>
+<M ID="E">D385.M.250.G.E</M>
+<M ID="G">D385.M.250.G.G</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D385.M.250.G.G">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d385</P>
+</PEERS>
+<MODELS>
+<M ID="D">D385.M.250.G.D</M>
+<M ID="E">D385.M.250.G.E</M>
+<M ID="F">D385.M.250.G.F</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D346.M.250.H.A">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d346</P>
+</PEERS>
+<MODELS>
+<M ID="B">D346.M.250.H.B</M>
+<M ID="C">D346.M.250.H.C</M>
+<M ID="H">D346.M.250.H.H</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D346.M.250.H.B">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d346</P>
+</PEERS>
+<MODELS>
+<M ID="A">D346.M.250.H.A</M>
+<M ID="C">D346.M.250.H.C</M>
+<M ID="H">D346.M.250.H.H</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D346.M.250.H.C">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d346</P>
+</PEERS>
+<MODELS>
+<M ID="A">D346.M.250.H.A</M>
+<M ID="B">D346.M.250.H.B</M>
+<M ID="H">D346.M.250.H.H</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D346.M.250.H.H">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d346</P>
+</PEERS>
+<MODELS>
+<M ID="A">D346.M.250.H.A</M>
+<M ID="B">D346.M.250.H.B</M>
+<M ID="C">D346.M.250.H.C</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D347.M.250.B.A">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d347</P>
+</PEERS>
+<MODELS>
+<M ID="B">D347.M.250.B.B</M>
+<M ID="C">D347.M.250.B.C</M>
+<M ID="D">D347.M.250.B.D</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D347.M.250.B.B">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d347</P>
+</PEERS>
+<MODELS>
+<M ID="A">D347.M.250.B.A</M>
+<M ID="C">D347.M.250.B.C</M>
+<M ID="D">D347.M.250.B.D</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D347.M.250.B.C">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d347</P>
+</PEERS>
+<MODELS>
+<M ID="A">D347.M.250.B.A</M>
+<M ID="B">D347.M.250.B.B</M>
+<M ID="D">D347.M.250.B.D</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D347.M.250.B.D">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d347</P>
+</PEERS>
+<MODELS>
+<M ID="A">D347.M.250.B.A</M>
+<M ID="B">D347.M.250.B.B</M>
+<M ID="C">D347.M.250.B.C</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D632.M.250.I.A">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d632</P>
+</PEERS>
+<MODELS>
+<M ID="B">D632.M.250.I.B</M>
+<M ID="C">D632.M.250.I.C</M>
+<M ID="D">D632.M.250.I.D</M>
+<M ID="E">D632.M.250.I.E</M>
+<M ID="F">D632.M.250.I.F</M>
+<M ID="G">D632.M.250.I.G</M>
+<M ID="H">D632.M.250.I.H</M>
+<M ID="J">D632.M.250.I.J</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D632.M.250.I.B">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d632</P>
+</PEERS>
+<MODELS>
+<M ID="A">D632.M.250.I.A</M>
+<M ID="C">D632.M.250.I.C</M>
+<M ID="D">D632.M.250.I.D</M>
+<M ID="E">D632.M.250.I.E</M>
+<M ID="F">D632.M.250.I.F</M>
+<M ID="G">D632.M.250.I.G</M>
+<M ID="H">D632.M.250.I.H</M>
+<M ID="J">D632.M.250.I.J</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D632.M.250.I.C">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d632</P>
+</PEERS>
+<MODELS>
+<M ID="A">D632.M.250.I.A</M>
+<M ID="B">D632.M.250.I.B</M>
+<M ID="D">D632.M.250.I.D</M>
+<M ID="E">D632.M.250.I.E</M>
+<M ID="F">D632.M.250.I.F</M>
+<M ID="G">D632.M.250.I.G</M>
+<M ID="H">D632.M.250.I.H</M>
+<M ID="J">D632.M.250.I.J</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D632.M.250.I.D">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d632</P>
+</PEERS>
+<MODELS>
+<M ID="A">D632.M.250.I.A</M>
+<M ID="B">D632.M.250.I.B</M>
+<M ID="C">D632.M.250.I.C</M>
+<M ID="E">D632.M.250.I.E</M>
+<M ID="F">D632.M.250.I.F</M>
+<M ID="G">D632.M.250.I.G</M>
+<M ID="H">D632.M.250.I.H</M>
+<M ID="J">D632.M.250.I.J</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D632.M.250.I.E">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d632</P>
+</PEERS>
+<MODELS>
+<M ID="A">D632.M.250.I.A</M>
+<M ID="B">D632.M.250.I.B</M>
+<M ID="C">D632.M.250.I.C</M>
+<M ID="D">D632.M.250.I.D</M>
+<M ID="F">D632.M.250.I.F</M>
+<M ID="G">D632.M.250.I.G</M>
+<M ID="H">D632.M.250.I.H</M>
+<M ID="J">D632.M.250.I.J</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D632.M.250.I.F">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d632</P>
+</PEERS>
+<MODELS>
+<M ID="A">D632.M.250.I.A</M>
+<M ID="B">D632.M.250.I.B</M>
+<M ID="C">D632.M.250.I.C</M>
+<M ID="D">D632.M.250.I.D</M>
+<M ID="E">D632.M.250.I.E</M>
+<M ID="G">D632.M.250.I.G</M>
+<M ID="H">D632.M.250.I.H</M>
+<M ID="J">D632.M.250.I.J</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D632.M.250.I.G">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d632</P>
+</PEERS>
+<MODELS>
+<M ID="A">D632.M.250.I.A</M>
+<M ID="B">D632.M.250.I.B</M>
+<M ID="C">D632.M.250.I.C</M>
+<M ID="D">D632.M.250.I.D</M>
+<M ID="E">D632.M.250.I.E</M>
+<M ID="F">D632.M.250.I.F</M>
+<M ID="H">D632.M.250.I.H</M>
+<M ID="J">D632.M.250.I.J</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D632.M.250.I.H">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d632</P>
+</PEERS>
+<MODELS>
+<M ID="A">D632.M.250.I.A</M>
+<M ID="B">D632.M.250.I.B</M>
+<M ID="C">D632.M.250.I.C</M>
+<M ID="D">D632.M.250.I.D</M>
+<M ID="E">D632.M.250.I.E</M>
+<M ID="F">D632.M.250.I.F</M>
+<M ID="G">D632.M.250.I.G</M>
+<M ID="J">D632.M.250.I.J</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D632.M.250.I.J">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d632</P>
+</PEERS>
+<MODELS>
+<M ID="A">D632.M.250.I.A</M>
+<M ID="B">D632.M.250.I.B</M>
+<M ID="C">D632.M.250.I.C</M>
+<M ID="D">D632.M.250.I.D</M>
+<M ID="E">D632.M.250.I.E</M>
+<M ID="F">D632.M.250.I.F</M>
+<M ID="G">D632.M.250.I.G</M>
+<M ID="H">D632.M.250.I.H</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D370.M.250.I.D">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d370</P>
+</PEERS>
+<MODELS>
+<M ID="E">D370.M.250.I.E</M>
+<M ID="F">D370.M.250.I.F</M>
+<M ID="I">D370.M.250.I.I</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D370.M.250.I.E">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d370</P>
+</PEERS>
+<MODELS>
+<M ID="D">D370.M.250.I.D</M>
+<M ID="F">D370.M.250.I.F</M>
+<M ID="I">D370.M.250.I.I</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D370.M.250.I.F">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d370</P>
+</PEERS>
+<MODELS>
+<M ID="D">D370.M.250.I.D</M>
+<M ID="E">D370.M.250.I.E</M>
+<M ID="I">D370.M.250.I.I</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D370.M.250.I.I">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d370</P>
+</PEERS>
+<MODELS>
+<M ID="D">D370.M.250.I.D</M>
+<M ID="E">D370.M.250.I.E</M>
+<M ID="F">D370.M.250.I.F</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D404.M.250.G.F">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d404</P>
+</PEERS>
+<MODELS>
+<M ID="G">D404.M.250.G.G</M>
+<M ID="H">D404.M.250.G.H</M>
+<M ID="J">D404.M.250.G.J</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D404.M.250.G.G">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d404</P>
+</PEERS>
+<MODELS>
+<M ID="F">D404.M.250.G.F</M>
+<M ID="H">D404.M.250.G.H</M>
+<M ID="J">D404.M.250.G.J</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D404.M.250.G.H">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d404</P>
+</PEERS>
+<MODELS>
+<M ID="F">D404.M.250.G.F</M>
+<M ID="G">D404.M.250.G.G</M>
+<M ID="J">D404.M.250.G.J</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D404.M.250.G.J">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d404</P>
+</PEERS>
+<MODELS>
+<M ID="F">D404.M.250.G.F</M>
+<M ID="G">D404.M.250.G.G</M>
+<M ID="H">D404.M.250.G.H</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D393.M.250.F.A">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d393</P>
+</PEERS>
+<MODELS>
+<M ID="B">D393.M.250.F.B</M>
+<M ID="C">D393.M.250.F.C</M>
+<M ID="D">D393.M.250.F.D</M>
+<M ID="F">D393.M.250.F.F</M>
+<M ID="G">D393.M.250.F.G</M>
+<M ID="H">D393.M.250.F.H</M>
+<M ID="I">D393.M.250.F.I</M>
+<M ID="J">D393.M.250.F.J</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D393.M.250.F.B">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d393</P>
+</PEERS>
+<MODELS>
+<M ID="A">D393.M.250.F.A</M>
+<M ID="C">D393.M.250.F.C</M>
+<M ID="D">D393.M.250.F.D</M>
+<M ID="F">D393.M.250.F.F</M>
+<M ID="G">D393.M.250.F.G</M>
+<M ID="H">D393.M.250.F.H</M>
+<M ID="I">D393.M.250.F.I</M>
+<M ID="J">D393.M.250.F.J</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D393.M.250.F.C">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d393</P>
+</PEERS>
+<MODELS>
+<M ID="A">D393.M.250.F.A</M>
+<M ID="B">D393.M.250.F.B</M>
+<M ID="D">D393.M.250.F.D</M>
+<M ID="F">D393.M.250.F.F</M>
+<M ID="G">D393.M.250.F.G</M>
+<M ID="H">D393.M.250.F.H</M>
+<M ID="I">D393.M.250.F.I</M>
+<M ID="J">D393.M.250.F.J</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D393.M.250.F.D">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d393</P>
+</PEERS>
+<MODELS>
+<M ID="A">D393.M.250.F.A</M>
+<M ID="B">D393.M.250.F.B</M>
+<M ID="C">D393.M.250.F.C</M>
+<M ID="F">D393.M.250.F.F</M>
+<M ID="G">D393.M.250.F.G</M>
+<M ID="H">D393.M.250.F.H</M>
+<M ID="I">D393.M.250.F.I</M>
+<M ID="J">D393.M.250.F.J</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D393.M.250.F.F">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d393</P>
+</PEERS>
+<MODELS>
+<M ID="A">D393.M.250.F.A</M>
+<M ID="B">D393.M.250.F.B</M>
+<M ID="C">D393.M.250.F.C</M>
+<M ID="D">D393.M.250.F.D</M>
+<M ID="G">D393.M.250.F.G</M>
+<M ID="H">D393.M.250.F.H</M>
+<M ID="I">D393.M.250.F.I</M>
+<M ID="J">D393.M.250.F.J</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D393.M.250.F.G">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d393</P>
+</PEERS>
+<MODELS>
+<M ID="A">D393.M.250.F.A</M>
+<M ID="B">D393.M.250.F.B</M>
+<M ID="C">D393.M.250.F.C</M>
+<M ID="D">D393.M.250.F.D</M>
+<M ID="F">D393.M.250.F.F</M>
+<M ID="H">D393.M.250.F.H</M>
+<M ID="I">D393.M.250.F.I</M>
+<M ID="J">D393.M.250.F.J</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D393.M.250.F.H">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d393</P>
+</PEERS>
+<MODELS>
+<M ID="A">D393.M.250.F.A</M>
+<M ID="B">D393.M.250.F.B</M>
+<M ID="C">D393.M.250.F.C</M>
+<M ID="D">D393.M.250.F.D</M>
+<M ID="F">D393.M.250.F.F</M>
+<M ID="G">D393.M.250.F.G</M>
+<M ID="I">D393.M.250.F.I</M>
+<M ID="J">D393.M.250.F.J</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D393.M.250.F.I">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d393</P>
+</PEERS>
+<MODELS>
+<M ID="A">D393.M.250.F.A</M>
+<M ID="B">D393.M.250.F.B</M>
+<M ID="C">D393.M.250.F.C</M>
+<M ID="D">D393.M.250.F.D</M>
+<M ID="F">D393.M.250.F.F</M>
+<M ID="G">D393.M.250.F.G</M>
+<M ID="H">D393.M.250.F.H</M>
+<M ID="J">D393.M.250.F.J</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D393.M.250.F.J">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d393</P>
+</PEERS>
+<MODELS>
+<M ID="A">D393.M.250.F.A</M>
+<M ID="B">D393.M.250.F.B</M>
+<M ID="C">D393.M.250.F.C</M>
+<M ID="D">D393.M.250.F.D</M>
+<M ID="F">D393.M.250.F.F</M>
+<M ID="G">D393.M.250.F.G</M>
+<M ID="H">D393.M.250.F.H</M>
+<M ID="I">D393.M.250.F.I</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D360.M.250.F.D">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d360</P>
+</PEERS>
+<MODELS>
+<M ID="E">D360.M.250.F.E</M>
+<M ID="F">D360.M.250.F.F</M>
+<M ID="G">D360.M.250.F.G</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D360.M.250.F.E">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d360</P>
+</PEERS>
+<MODELS>
+<M ID="D">D360.M.250.F.D</M>
+<M ID="F">D360.M.250.F.F</M>
+<M ID="G">D360.M.250.F.G</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D360.M.250.F.F">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d360</P>
+</PEERS>
+<MODELS>
+<M ID="D">D360.M.250.F.D</M>
+<M ID="E">D360.M.250.F.E</M>
+<M ID="G">D360.M.250.F.G</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D360.M.250.F.G">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d360</P>
+</PEERS>
+<MODELS>
+<M ID="D">D360.M.250.F.D</M>
+<M ID="E">D360.M.250.F.E</M>
+<M ID="F">D360.M.250.F.F</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D324.M.250.E.A">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d324</P>
+</PEERS>
+<MODELS>
+<M ID="C">D324.M.250.E.C</M>
+<M ID="D">D324.M.250.E.D</M>
+<M ID="E">D324.M.250.E.E</M>
+<M ID="F">D324.M.250.E.F</M>
+<M ID="G">D324.M.250.E.G</M>
+<M ID="H">D324.M.250.E.H</M>
+<M ID="I">D324.M.250.E.I</M>
+<M ID="J">D324.M.250.E.J</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D324.M.250.E.C">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d324</P>
+</PEERS>
+<MODELS>
+<M ID="A">D324.M.250.E.A</M>
+<M ID="D">D324.M.250.E.D</M>
+<M ID="E">D324.M.250.E.E</M>
+<M ID="F">D324.M.250.E.F</M>
+<M ID="G">D324.M.250.E.G</M>
+<M ID="H">D324.M.250.E.H</M>
+<M ID="I">D324.M.250.E.I</M>
+<M ID="J">D324.M.250.E.J</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D324.M.250.E.D">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d324</P>
+</PEERS>
+<MODELS>
+<M ID="A">D324.M.250.E.A</M>
+<M ID="C">D324.M.250.E.C</M>
+<M ID="E">D324.M.250.E.E</M>
+<M ID="F">D324.M.250.E.F</M>
+<M ID="G">D324.M.250.E.G</M>
+<M ID="H">D324.M.250.E.H</M>
+<M ID="I">D324.M.250.E.I</M>
+<M ID="J">D324.M.250.E.J</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D324.M.250.E.E">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d324</P>
+</PEERS>
+<MODELS>
+<M ID="A">D324.M.250.E.A</M>
+<M ID="C">D324.M.250.E.C</M>
+<M ID="D">D324.M.250.E.D</M>
+<M ID="F">D324.M.250.E.F</M>
+<M ID="G">D324.M.250.E.G</M>
+<M ID="H">D324.M.250.E.H</M>
+<M ID="I">D324.M.250.E.I</M>
+<M ID="J">D324.M.250.E.J</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D324.M.250.E.F">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d324</P>
+</PEERS>
+<MODELS>
+<M ID="A">D324.M.250.E.A</M>
+<M ID="C">D324.M.250.E.C</M>
+<M ID="D">D324.M.250.E.D</M>
+<M ID="E">D324.M.250.E.E</M>
+<M ID="G">D324.M.250.E.G</M>
+<M ID="H">D324.M.250.E.H</M>
+<M ID="I">D324.M.250.E.I</M>
+<M ID="J">D324.M.250.E.J</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D324.M.250.E.G">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d324</P>
+</PEERS>
+<MODELS>
+<M ID="A">D324.M.250.E.A</M>
+<M ID="C">D324.M.250.E.C</M>
+<M ID="D">D324.M.250.E.D</M>
+<M ID="E">D324.M.250.E.E</M>
+<M ID="F">D324.M.250.E.F</M>
+<M ID="H">D324.M.250.E.H</M>
+<M ID="I">D324.M.250.E.I</M>
+<M ID="J">D324.M.250.E.J</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D324.M.250.E.H">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d324</P>
+</PEERS>
+<MODELS>
+<M ID="A">D324.M.250.E.A</M>
+<M ID="C">D324.M.250.E.C</M>
+<M ID="D">D324.M.250.E.D</M>
+<M ID="E">D324.M.250.E.E</M>
+<M ID="F">D324.M.250.E.F</M>
+<M ID="G">D324.M.250.E.G</M>
+<M ID="I">D324.M.250.E.I</M>
+<M ID="J">D324.M.250.E.J</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D324.M.250.E.I">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d324</P>
+</PEERS>
+<MODELS>
+<M ID="A">D324.M.250.E.A</M>
+<M ID="C">D324.M.250.E.C</M>
+<M ID="D">D324.M.250.E.D</M>
+<M ID="E">D324.M.250.E.E</M>
+<M ID="F">D324.M.250.E.F</M>
+<M ID="G">D324.M.250.E.G</M>
+<M ID="H">D324.M.250.E.H</M>
+<M ID="J">D324.M.250.E.J</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D324.M.250.E.J">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d324</P>
+</PEERS>
+<MODELS>
+<M ID="A">D324.M.250.E.A</M>
+<M ID="C">D324.M.250.E.C</M>
+<M ID="D">D324.M.250.E.D</M>
+<M ID="E">D324.M.250.E.E</M>
+<M ID="F">D324.M.250.E.F</M>
+<M ID="G">D324.M.250.E.G</M>
+<M ID="H">D324.M.250.E.H</M>
+<M ID="I">D324.M.250.E.I</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D366.M.250.I.A">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d366</P>
+</PEERS>
+<MODELS>
+<M ID="B">D366.M.250.I.B</M>
+<M ID="C">D366.M.250.I.C</M>
+<M ID="D">D366.M.250.I.D</M>
+<M ID="E">D366.M.250.I.E</M>
+<M ID="F">D366.M.250.I.F</M>
+<M ID="G">D366.M.250.I.G</M>
+<M ID="H">D366.M.250.I.H</M>
+<M ID="I">D366.M.250.I.I</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D366.M.250.I.B">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d366</P>
+</PEERS>
+<MODELS>
+<M ID="A">D366.M.250.I.A</M>
+<M ID="C">D366.M.250.I.C</M>
+<M ID="D">D366.M.250.I.D</M>
+<M ID="E">D366.M.250.I.E</M>
+<M ID="F">D366.M.250.I.F</M>
+<M ID="G">D366.M.250.I.G</M>
+<M ID="H">D366.M.250.I.H</M>
+<M ID="I">D366.M.250.I.I</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D366.M.250.I.C">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d366</P>
+</PEERS>
+<MODELS>
+<M ID="A">D366.M.250.I.A</M>
+<M ID="B">D366.M.250.I.B</M>
+<M ID="D">D366.M.250.I.D</M>
+<M ID="E">D366.M.250.I.E</M>
+<M ID="F">D366.M.250.I.F</M>
+<M ID="G">D366.M.250.I.G</M>
+<M ID="H">D366.M.250.I.H</M>
+<M ID="I">D366.M.250.I.I</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D366.M.250.I.D">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d366</P>
+</PEERS>
+<MODELS>
+<M ID="A">D366.M.250.I.A</M>
+<M ID="B">D366.M.250.I.B</M>
+<M ID="C">D366.M.250.I.C</M>
+<M ID="E">D366.M.250.I.E</M>
+<M ID="F">D366.M.250.I.F</M>
+<M ID="G">D366.M.250.I.G</M>
+<M ID="H">D366.M.250.I.H</M>
+<M ID="I">D366.M.250.I.I</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D366.M.250.I.E">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d366</P>
+</PEERS>
+<MODELS>
+<M ID="A">D366.M.250.I.A</M>
+<M ID="B">D366.M.250.I.B</M>
+<M ID="C">D366.M.250.I.C</M>
+<M ID="D">D366.M.250.I.D</M>
+<M ID="F">D366.M.250.I.F</M>
+<M ID="G">D366.M.250.I.G</M>
+<M ID="H">D366.M.250.I.H</M>
+<M ID="I">D366.M.250.I.I</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D366.M.250.I.F">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d366</P>
+</PEERS>
+<MODELS>
+<M ID="A">D366.M.250.I.A</M>
+<M ID="B">D366.M.250.I.B</M>
+<M ID="C">D366.M.250.I.C</M>
+<M ID="D">D366.M.250.I.D</M>
+<M ID="E">D366.M.250.I.E</M>
+<M ID="G">D366.M.250.I.G</M>
+<M ID="H">D366.M.250.I.H</M>
+<M ID="I">D366.M.250.I.I</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D366.M.250.I.G">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d366</P>
+</PEERS>
+<MODELS>
+<M ID="A">D366.M.250.I.A</M>
+<M ID="B">D366.M.250.I.B</M>
+<M ID="C">D366.M.250.I.C</M>
+<M ID="D">D366.M.250.I.D</M>
+<M ID="E">D366.M.250.I.E</M>
+<M ID="F">D366.M.250.I.F</M>
+<M ID="H">D366.M.250.I.H</M>
+<M ID="I">D366.M.250.I.I</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D366.M.250.I.H">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d366</P>
+</PEERS>
+<MODELS>
+<M ID="A">D366.M.250.I.A</M>
+<M ID="B">D366.M.250.I.B</M>
+<M ID="C">D366.M.250.I.C</M>
+<M ID="D">D366.M.250.I.D</M>
+<M ID="E">D366.M.250.I.E</M>
+<M ID="F">D366.M.250.I.F</M>
+<M ID="G">D366.M.250.I.G</M>
+<M ID="I">D366.M.250.I.I</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D366.M.250.I.I">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d366</P>
+</PEERS>
+<MODELS>
+<M ID="A">D366.M.250.I.A</M>
+<M ID="B">D366.M.250.I.B</M>
+<M ID="C">D366.M.250.I.C</M>
+<M ID="D">D366.M.250.I.D</M>
+<M ID="E">D366.M.250.I.E</M>
+<M ID="F">D366.M.250.I.F</M>
+<M ID="G">D366.M.250.I.G</M>
+<M ID="H">D366.M.250.I.H</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D436.M.250.J.G">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d436</P>
+</PEERS>
+<MODELS>
+<M ID="H">D436.M.250.J.H</M>
+<M ID="I">D436.M.250.J.I</M>
+<M ID="J">D436.M.250.J.J</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D436.M.250.J.H">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d436</P>
+</PEERS>
+<MODELS>
+<M ID="G">D436.M.250.J.G</M>
+<M ID="I">D436.M.250.J.I</M>
+<M ID="J">D436.M.250.J.J</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D436.M.250.J.I">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d436</P>
+</PEERS>
+<MODELS>
+<M ID="G">D436.M.250.J.G</M>
+<M ID="H">D436.M.250.J.H</M>
+<M ID="J">D436.M.250.J.J</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D436.M.250.J.J">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d436</P>
+</PEERS>
+<MODELS>
+<M ID="G">D436.M.250.J.G</M>
+<M ID="H">D436.M.250.J.H</M>
+<M ID="I">D436.M.250.J.I</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D331.M.250.F.A">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d331</P>
+</PEERS>
+<MODELS>
+<M ID="B">D331.M.250.F.B</M>
+<M ID="C">D331.M.250.F.C</M>
+<M ID="F">D331.M.250.F.F</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D331.M.250.F.B">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d331</P>
+</PEERS>
+<MODELS>
+<M ID="A">D331.M.250.F.A</M>
+<M ID="C">D331.M.250.F.C</M>
+<M ID="F">D331.M.250.F.F</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D331.M.250.F.C">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d331</P>
+</PEERS>
+<MODELS>
+<M ID="A">D331.M.250.F.A</M>
+<M ID="B">D331.M.250.F.B</M>
+<M ID="F">D331.M.250.F.F</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D331.M.250.F.F">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d331</P>
+</PEERS>
+<MODELS>
+<M ID="A">D331.M.250.F.A</M>
+<M ID="B">D331.M.250.F.B</M>
+<M ID="C">D331.M.250.F.C</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D699.M.250.A.A">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d699</P>
+</PEERS>
+<MODELS>
+<M ID="H">D699.M.250.A.H</M>
+<M ID="I">D699.M.250.A.I</M>
+<M ID="J">D699.M.250.A.J</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D699.M.250.A.H">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d699</P>
+</PEERS>
+<MODELS>
+<M ID="A">D699.M.250.A.A</M>
+<M ID="I">D699.M.250.A.I</M>
+<M ID="J">D699.M.250.A.J</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D699.M.250.A.I">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d699</P>
+</PEERS>
+<MODELS>
+<M ID="A">D699.M.250.A.A</M>
+<M ID="H">D699.M.250.A.H</M>
+<M ID="J">D699.M.250.A.J</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D699.M.250.A.J">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d699</P>
+</PEERS>
+<MODELS>
+<M ID="A">D699.M.250.A.A</M>
+<M ID="H">D699.M.250.A.H</M>
+<M ID="I">D699.M.250.A.I</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D350.M.250.A.A">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d350</P>
+</PEERS>
+<MODELS>
+<M ID="B">D350.M.250.A.B</M>
+<M ID="C">D350.M.250.A.C</M>
+<M ID="D">D350.M.250.A.D</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D350.M.250.A.B">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d350</P>
+</PEERS>
+<MODELS>
+<M ID="A">D350.M.250.A.A</M>
+<M ID="C">D350.M.250.A.C</M>
+<M ID="D">D350.M.250.A.D</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D350.M.250.A.C">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d350</P>
+</PEERS>
+<MODELS>
+<M ID="A">D350.M.250.A.A</M>
+<M ID="B">D350.M.250.A.B</M>
+<M ID="D">D350.M.250.A.D</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D350.M.250.A.D">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d350</P>
+</PEERS>
+<MODELS>
+<M ID="A">D350.M.250.A.A</M>
+<M ID="B">D350.M.250.A.B</M>
+<M ID="C">D350.M.250.A.C</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D431.M.250.H.A">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d431</P>
+</PEERS>
+<MODELS>
+<M ID="B">D431.M.250.H.B</M>
+<M ID="C">D431.M.250.H.C</M>
+<M ID="D">D431.M.250.H.D</M>
+<M ID="E">D431.M.250.H.E</M>
+<M ID="F">D431.M.250.H.F</M>
+<M ID="G">D431.M.250.H.G</M>
+<M ID="H">D431.M.250.H.H</M>
+<M ID="J">D431.M.250.H.J</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D431.M.250.H.B">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d431</P>
+</PEERS>
+<MODELS>
+<M ID="A">D431.M.250.H.A</M>
+<M ID="C">D431.M.250.H.C</M>
+<M ID="D">D431.M.250.H.D</M>
+<M ID="E">D431.M.250.H.E</M>
+<M ID="F">D431.M.250.H.F</M>
+<M ID="G">D431.M.250.H.G</M>
+<M ID="H">D431.M.250.H.H</M>
+<M ID="J">D431.M.250.H.J</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D431.M.250.H.C">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d431</P>
+</PEERS>
+<MODELS>
+<M ID="A">D431.M.250.H.A</M>
+<M ID="B">D431.M.250.H.B</M>
+<M ID="D">D431.M.250.H.D</M>
+<M ID="E">D431.M.250.H.E</M>
+<M ID="F">D431.M.250.H.F</M>
+<M ID="G">D431.M.250.H.G</M>
+<M ID="H">D431.M.250.H.H</M>
+<M ID="J">D431.M.250.H.J</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D431.M.250.H.D">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d431</P>
+</PEERS>
+<MODELS>
+<M ID="A">D431.M.250.H.A</M>
+<M ID="B">D431.M.250.H.B</M>
+<M ID="C">D431.M.250.H.C</M>
+<M ID="E">D431.M.250.H.E</M>
+<M ID="F">D431.M.250.H.F</M>
+<M ID="G">D431.M.250.H.G</M>
+<M ID="H">D431.M.250.H.H</M>
+<M ID="J">D431.M.250.H.J</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D431.M.250.H.E">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d431</P>
+</PEERS>
+<MODELS>
+<M ID="A">D431.M.250.H.A</M>
+<M ID="B">D431.M.250.H.B</M>
+<M ID="C">D431.M.250.H.C</M>
+<M ID="D">D431.M.250.H.D</M>
+<M ID="F">D431.M.250.H.F</M>
+<M ID="G">D431.M.250.H.G</M>
+<M ID="H">D431.M.250.H.H</M>
+<M ID="J">D431.M.250.H.J</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D431.M.250.H.F">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d431</P>
+</PEERS>
+<MODELS>
+<M ID="A">D431.M.250.H.A</M>
+<M ID="B">D431.M.250.H.B</M>
+<M ID="C">D431.M.250.H.C</M>
+<M ID="D">D431.M.250.H.D</M>
+<M ID="E">D431.M.250.H.E</M>
+<M ID="G">D431.M.250.H.G</M>
+<M ID="H">D431.M.250.H.H</M>
+<M ID="J">D431.M.250.H.J</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D431.M.250.H.G">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d431</P>
+</PEERS>
+<MODELS>
+<M ID="A">D431.M.250.H.A</M>
+<M ID="B">D431.M.250.H.B</M>
+<M ID="C">D431.M.250.H.C</M>
+<M ID="D">D431.M.250.H.D</M>
+<M ID="E">D431.M.250.H.E</M>
+<M ID="F">D431.M.250.H.F</M>
+<M ID="H">D431.M.250.H.H</M>
+<M ID="J">D431.M.250.H.J</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D431.M.250.H.H">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d431</P>
+</PEERS>
+<MODELS>
+<M ID="A">D431.M.250.H.A</M>
+<M ID="B">D431.M.250.H.B</M>
+<M ID="C">D431.M.250.H.C</M>
+<M ID="D">D431.M.250.H.D</M>
+<M ID="E">D431.M.250.H.E</M>
+<M ID="F">D431.M.250.H.F</M>
+<M ID="G">D431.M.250.H.G</M>
+<M ID="J">D431.M.250.H.J</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D431.M.250.H.J">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d431</P>
+</PEERS>
+<MODELS>
+<M ID="A">D431.M.250.H.A</M>
+<M ID="B">D431.M.250.H.B</M>
+<M ID="C">D431.M.250.H.C</M>
+<M ID="D">D431.M.250.H.D</M>
+<M ID="E">D431.M.250.H.E</M>
+<M ID="F">D431.M.250.H.F</M>
+<M ID="G">D431.M.250.H.G</M>
+<M ID="H">D431.M.250.H.H</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D633.M.250.G.A">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d633</P>
+</PEERS>
+<MODELS>
+<M ID="B">D633.M.250.G.B</M>
+<M ID="C">D633.M.250.G.C</M>
+<M ID="D">D633.M.250.G.D</M>
+<M ID="E">D633.M.250.G.E</M>
+<M ID="F">D633.M.250.G.F</M>
+<M ID="G">D633.M.250.G.G</M>
+<M ID="H">D633.M.250.G.H</M>
+<M ID="J">D633.M.250.G.J</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D633.M.250.G.B">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d633</P>
+</PEERS>
+<MODELS>
+<M ID="A">D633.M.250.G.A</M>
+<M ID="C">D633.M.250.G.C</M>
+<M ID="D">D633.M.250.G.D</M>
+<M ID="E">D633.M.250.G.E</M>
+<M ID="F">D633.M.250.G.F</M>
+<M ID="G">D633.M.250.G.G</M>
+<M ID="H">D633.M.250.G.H</M>
+<M ID="J">D633.M.250.G.J</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D633.M.250.G.C">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d633</P>
+</PEERS>
+<MODELS>
+<M ID="A">D633.M.250.G.A</M>
+<M ID="B">D633.M.250.G.B</M>
+<M ID="D">D633.M.250.G.D</M>
+<M ID="E">D633.M.250.G.E</M>
+<M ID="F">D633.M.250.G.F</M>
+<M ID="G">D633.M.250.G.G</M>
+<M ID="H">D633.M.250.G.H</M>
+<M ID="J">D633.M.250.G.J</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D633.M.250.G.D">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d633</P>
+</PEERS>
+<MODELS>
+<M ID="A">D633.M.250.G.A</M>
+<M ID="B">D633.M.250.G.B</M>
+<M ID="C">D633.M.250.G.C</M>
+<M ID="E">D633.M.250.G.E</M>
+<M ID="F">D633.M.250.G.F</M>
+<M ID="G">D633.M.250.G.G</M>
+<M ID="H">D633.M.250.G.H</M>
+<M ID="J">D633.M.250.G.J</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D633.M.250.G.E">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d633</P>
+</PEERS>
+<MODELS>
+<M ID="A">D633.M.250.G.A</M>
+<M ID="B">D633.M.250.G.B</M>
+<M ID="C">D633.M.250.G.C</M>
+<M ID="D">D633.M.250.G.D</M>
+<M ID="F">D633.M.250.G.F</M>
+<M ID="G">D633.M.250.G.G</M>
+<M ID="H">D633.M.250.G.H</M>
+<M ID="J">D633.M.250.G.J</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D633.M.250.G.F">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d633</P>
+</PEERS>
+<MODELS>
+<M ID="A">D633.M.250.G.A</M>
+<M ID="B">D633.M.250.G.B</M>
+<M ID="C">D633.M.250.G.C</M>
+<M ID="D">D633.M.250.G.D</M>
+<M ID="E">D633.M.250.G.E</M>
+<M ID="G">D633.M.250.G.G</M>
+<M ID="H">D633.M.250.G.H</M>
+<M ID="J">D633.M.250.G.J</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D633.M.250.G.G">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d633</P>
+</PEERS>
+<MODELS>
+<M ID="A">D633.M.250.G.A</M>
+<M ID="B">D633.M.250.G.B</M>
+<M ID="C">D633.M.250.G.C</M>
+<M ID="D">D633.M.250.G.D</M>
+<M ID="E">D633.M.250.G.E</M>
+<M ID="F">D633.M.250.G.F</M>
+<M ID="H">D633.M.250.G.H</M>
+<M ID="J">D633.M.250.G.J</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D633.M.250.G.H">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d633</P>
+</PEERS>
+<MODELS>
+<M ID="A">D633.M.250.G.A</M>
+<M ID="B">D633.M.250.G.B</M>
+<M ID="C">D633.M.250.G.C</M>
+<M ID="D">D633.M.250.G.D</M>
+<M ID="E">D633.M.250.G.E</M>
+<M ID="F">D633.M.250.G.F</M>
+<M ID="G">D633.M.250.G.G</M>
+<M ID="J">D633.M.250.G.J</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D633.M.250.G.J">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d633</P>
+</PEERS>
+<MODELS>
+<M ID="A">D633.M.250.G.A</M>
+<M ID="B">D633.M.250.G.B</M>
+<M ID="C">D633.M.250.G.C</M>
+<M ID="D">D633.M.250.G.D</M>
+<M ID="E">D633.M.250.G.E</M>
+<M ID="F">D633.M.250.G.F</M>
+<M ID="G">D633.M.250.G.G</M>
+<M ID="H">D633.M.250.G.H</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D345.M.250.J.A">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d345</P>
+</PEERS>
+<MODELS>
+<M ID="B">D345.M.250.J.B</M>
+<M ID="D">D345.M.250.J.D</M>
+<M ID="E">D345.M.250.J.E</M>
+<M ID="F">D345.M.250.J.F</M>
+<M ID="G">D345.M.250.J.G</M>
+<M ID="H">D345.M.250.J.H</M>
+<M ID="I">D345.M.250.J.I</M>
+<M ID="J">D345.M.250.J.J</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D345.M.250.J.B">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d345</P>
+</PEERS>
+<MODELS>
+<M ID="A">D345.M.250.J.A</M>
+<M ID="D">D345.M.250.J.D</M>
+<M ID="E">D345.M.250.J.E</M>
+<M ID="F">D345.M.250.J.F</M>
+<M ID="G">D345.M.250.J.G</M>
+<M ID="H">D345.M.250.J.H</M>
+<M ID="I">D345.M.250.J.I</M>
+<M ID="J">D345.M.250.J.J</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D345.M.250.J.D">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d345</P>
+</PEERS>
+<MODELS>
+<M ID="A">D345.M.250.J.A</M>
+<M ID="B">D345.M.250.J.B</M>
+<M ID="E">D345.M.250.J.E</M>
+<M ID="F">D345.M.250.J.F</M>
+<M ID="G">D345.M.250.J.G</M>
+<M ID="H">D345.M.250.J.H</M>
+<M ID="I">D345.M.250.J.I</M>
+<M ID="J">D345.M.250.J.J</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D345.M.250.J.E">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d345</P>
+</PEERS>
+<MODELS>
+<M ID="A">D345.M.250.J.A</M>
+<M ID="B">D345.M.250.J.B</M>
+<M ID="D">D345.M.250.J.D</M>
+<M ID="F">D345.M.250.J.F</M>
+<M ID="G">D345.M.250.J.G</M>
+<M ID="H">D345.M.250.J.H</M>
+<M ID="I">D345.M.250.J.I</M>
+<M ID="J">D345.M.250.J.J</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D345.M.250.J.F">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d345</P>
+</PEERS>
+<MODELS>
+<M ID="A">D345.M.250.J.A</M>
+<M ID="B">D345.M.250.J.B</M>
+<M ID="D">D345.M.250.J.D</M>
+<M ID="E">D345.M.250.J.E</M>
+<M ID="G">D345.M.250.J.G</M>
+<M ID="H">D345.M.250.J.H</M>
+<M ID="I">D345.M.250.J.I</M>
+<M ID="J">D345.M.250.J.J</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D345.M.250.J.G">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d345</P>
+</PEERS>
+<MODELS>
+<M ID="A">D345.M.250.J.A</M>
+<M ID="B">D345.M.250.J.B</M>
+<M ID="D">D345.M.250.J.D</M>
+<M ID="E">D345.M.250.J.E</M>
+<M ID="F">D345.M.250.J.F</M>
+<M ID="H">D345.M.250.J.H</M>
+<M ID="I">D345.M.250.J.I</M>
+<M ID="J">D345.M.250.J.J</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D345.M.250.J.H">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d345</P>
+</PEERS>
+<MODELS>
+<M ID="A">D345.M.250.J.A</M>
+<M ID="B">D345.M.250.J.B</M>
+<M ID="D">D345.M.250.J.D</M>
+<M ID="E">D345.M.250.J.E</M>
+<M ID="F">D345.M.250.J.F</M>
+<M ID="G">D345.M.250.J.G</M>
+<M ID="I">D345.M.250.J.I</M>
+<M ID="J">D345.M.250.J.J</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D345.M.250.J.I">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d345</P>
+</PEERS>
+<MODELS>
+<M ID="A">D345.M.250.J.A</M>
+<M ID="B">D345.M.250.J.B</M>
+<M ID="D">D345.M.250.J.D</M>
+<M ID="E">D345.M.250.J.E</M>
+<M ID="F">D345.M.250.J.F</M>
+<M ID="G">D345.M.250.J.G</M>
+<M ID="H">D345.M.250.J.H</M>
+<M ID="J">D345.M.250.J.J</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D345.M.250.J.J">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d345</P>
+</PEERS>
+<MODELS>
+<M ID="A">D345.M.250.J.A</M>
+<M ID="B">D345.M.250.J.B</M>
+<M ID="D">D345.M.250.J.D</M>
+<M ID="E">D345.M.250.J.E</M>
+<M ID="F">D345.M.250.J.F</M>
+<M ID="G">D345.M.250.J.G</M>
+<M ID="H">D345.M.250.J.H</M>
+<M ID="I">D345.M.250.J.I</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D428.M.250.E.E">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d428</P>
+</PEERS>
+<MODELS>
+<M ID="G">D428.M.250.E.G</M>
+<M ID="I">D428.M.250.E.I</M>
+<M ID="J">D428.M.250.E.J</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D428.M.250.E.G">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d428</P>
+</PEERS>
+<MODELS>
+<M ID="E">D428.M.250.E.E</M>
+<M ID="I">D428.M.250.E.I</M>
+<M ID="J">D428.M.250.E.J</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D428.M.250.E.I">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d428</P>
+</PEERS>
+<MODELS>
+<M ID="E">D428.M.250.E.E</M>
+<M ID="G">D428.M.250.E.G</M>
+<M ID="J">D428.M.250.E.J</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D428.M.250.E.J">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d428</P>
+</PEERS>
+<MODELS>
+<M ID="E">D428.M.250.E.E</M>
+<M ID="G">D428.M.250.E.G</M>
+<M ID="I">D428.M.250.E.I</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D413.M.250.A.A">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d413</P>
+</PEERS>
+<MODELS>
+<M ID="B">D413.M.250.A.B</M>
+<M ID="C">D413.M.250.A.C</M>
+<M ID="D">D413.M.250.A.D</M>
+<M ID="E">D413.M.250.A.E</M>
+<M ID="F">D413.M.250.A.F</M>
+<M ID="G">D413.M.250.A.G</M>
+<M ID="I">D413.M.250.A.I</M>
+<M ID="J">D413.M.250.A.J</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D413.M.250.A.B">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d413</P>
+</PEERS>
+<MODELS>
+<M ID="A">D413.M.250.A.A</M>
+<M ID="C">D413.M.250.A.C</M>
+<M ID="D">D413.M.250.A.D</M>
+<M ID="E">D413.M.250.A.E</M>
+<M ID="F">D413.M.250.A.F</M>
+<M ID="G">D413.M.250.A.G</M>
+<M ID="I">D413.M.250.A.I</M>
+<M ID="J">D413.M.250.A.J</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D413.M.250.A.C">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d413</P>
+</PEERS>
+<MODELS>
+<M ID="A">D413.M.250.A.A</M>
+<M ID="B">D413.M.250.A.B</M>
+<M ID="D">D413.M.250.A.D</M>
+<M ID="E">D413.M.250.A.E</M>
+<M ID="F">D413.M.250.A.F</M>
+<M ID="G">D413.M.250.A.G</M>
+<M ID="I">D413.M.250.A.I</M>
+<M ID="J">D413.M.250.A.J</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D413.M.250.A.D">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d413</P>
+</PEERS>
+<MODELS>
+<M ID="A">D413.M.250.A.A</M>
+<M ID="B">D413.M.250.A.B</M>
+<M ID="C">D413.M.250.A.C</M>
+<M ID="E">D413.M.250.A.E</M>
+<M ID="F">D413.M.250.A.F</M>
+<M ID="G">D413.M.250.A.G</M>
+<M ID="I">D413.M.250.A.I</M>
+<M ID="J">D413.M.250.A.J</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D413.M.250.A.E">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d413</P>
+</PEERS>
+<MODELS>
+<M ID="A">D413.M.250.A.A</M>
+<M ID="B">D413.M.250.A.B</M>
+<M ID="C">D413.M.250.A.C</M>
+<M ID="D">D413.M.250.A.D</M>
+<M ID="F">D413.M.250.A.F</M>
+<M ID="G">D413.M.250.A.G</M>
+<M ID="I">D413.M.250.A.I</M>
+<M ID="J">D413.M.250.A.J</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D413.M.250.A.F">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d413</P>
+</PEERS>
+<MODELS>
+<M ID="A">D413.M.250.A.A</M>
+<M ID="B">D413.M.250.A.B</M>
+<M ID="C">D413.M.250.A.C</M>
+<M ID="D">D413.M.250.A.D</M>
+<M ID="E">D413.M.250.A.E</M>
+<M ID="G">D413.M.250.A.G</M>
+<M ID="I">D413.M.250.A.I</M>
+<M ID="J">D413.M.250.A.J</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D413.M.250.A.G">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d413</P>
+</PEERS>
+<MODELS>
+<M ID="A">D413.M.250.A.A</M>
+<M ID="B">D413.M.250.A.B</M>
+<M ID="C">D413.M.250.A.C</M>
+<M ID="D">D413.M.250.A.D</M>
+<M ID="E">D413.M.250.A.E</M>
+<M ID="F">D413.M.250.A.F</M>
+<M ID="I">D413.M.250.A.I</M>
+<M ID="J">D413.M.250.A.J</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D413.M.250.A.I">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d413</P>
+</PEERS>
+<MODELS>
+<M ID="A">D413.M.250.A.A</M>
+<M ID="B">D413.M.250.A.B</M>
+<M ID="C">D413.M.250.A.C</M>
+<M ID="D">D413.M.250.A.D</M>
+<M ID="E">D413.M.250.A.E</M>
+<M ID="F">D413.M.250.A.F</M>
+<M ID="G">D413.M.250.A.G</M>
+<M ID="J">D413.M.250.A.J</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D413.M.250.A.J">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d413</P>
+</PEERS>
+<MODELS>
+<M ID="A">D413.M.250.A.A</M>
+<M ID="B">D413.M.250.A.B</M>
+<M ID="C">D413.M.250.A.C</M>
+<M ID="D">D413.M.250.A.D</M>
+<M ID="E">D413.M.250.A.E</M>
+<M ID="F">D413.M.250.A.F</M>
+<M ID="G">D413.M.250.A.G</M>
+<M ID="I">D413.M.250.A.I</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D438.M.250.G.G">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d438</P>
+</PEERS>
+<MODELS>
+<M ID="H">D438.M.250.G.H</M>
+<M ID="I">D438.M.250.G.I</M>
+<M ID="J">D438.M.250.G.J</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D438.M.250.G.H">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d438</P>
+</PEERS>
+<MODELS>
+<M ID="G">D438.M.250.G.G</M>
+<M ID="I">D438.M.250.G.I</M>
+<M ID="J">D438.M.250.G.J</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D438.M.250.G.I">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d438</P>
+</PEERS>
+<MODELS>
+<M ID="G">D438.M.250.G.G</M>
+<M ID="H">D438.M.250.G.H</M>
+<M ID="J">D438.M.250.G.J</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D438.M.250.G.J">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d438</P>
+</PEERS>
+<MODELS>
+<M ID="G">D438.M.250.G.G</M>
+<M ID="H">D438.M.250.G.H</M>
+<M ID="I">D438.M.250.G.I</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D376.M.250.E.A">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d376</P>
+</PEERS>
+<MODELS>
+<M ID="B">D376.M.250.E.B</M>
+<M ID="C">D376.M.250.E.C</M>
+<M ID="D">D376.M.250.E.D</M>
+<M ID="E">D376.M.250.E.E</M>
+<M ID="G">D376.M.250.E.G</M>
+<M ID="H">D376.M.250.E.H</M>
+<M ID="I">D376.M.250.E.I</M>
+<M ID="J">D376.M.250.E.J</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D376.M.250.E.B">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d376</P>
+</PEERS>
+<MODELS>
+<M ID="A">D376.M.250.E.A</M>
+<M ID="C">D376.M.250.E.C</M>
+<M ID="D">D376.M.250.E.D</M>
+<M ID="E">D376.M.250.E.E</M>
+<M ID="G">D376.M.250.E.G</M>
+<M ID="H">D376.M.250.E.H</M>
+<M ID="I">D376.M.250.E.I</M>
+<M ID="J">D376.M.250.E.J</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D376.M.250.E.C">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d376</P>
+</PEERS>
+<MODELS>
+<M ID="A">D376.M.250.E.A</M>
+<M ID="B">D376.M.250.E.B</M>
+<M ID="D">D376.M.250.E.D</M>
+<M ID="E">D376.M.250.E.E</M>
+<M ID="G">D376.M.250.E.G</M>
+<M ID="H">D376.M.250.E.H</M>
+<M ID="I">D376.M.250.E.I</M>
+<M ID="J">D376.M.250.E.J</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D376.M.250.E.D">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d376</P>
+</PEERS>
+<MODELS>
+<M ID="A">D376.M.250.E.A</M>
+<M ID="B">D376.M.250.E.B</M>
+<M ID="C">D376.M.250.E.C</M>
+<M ID="E">D376.M.250.E.E</M>
+<M ID="G">D376.M.250.E.G</M>
+<M ID="H">D376.M.250.E.H</M>
+<M ID="I">D376.M.250.E.I</M>
+<M ID="J">D376.M.250.E.J</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D376.M.250.E.E">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d376</P>
+</PEERS>
+<MODELS>
+<M ID="A">D376.M.250.E.A</M>
+<M ID="B">D376.M.250.E.B</M>
+<M ID="C">D376.M.250.E.C</M>
+<M ID="D">D376.M.250.E.D</M>
+<M ID="G">D376.M.250.E.G</M>
+<M ID="H">D376.M.250.E.H</M>
+<M ID="I">D376.M.250.E.I</M>
+<M ID="J">D376.M.250.E.J</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D376.M.250.E.G">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d376</P>
+</PEERS>
+<MODELS>
+<M ID="A">D376.M.250.E.A</M>
+<M ID="B">D376.M.250.E.B</M>
+<M ID="C">D376.M.250.E.C</M>
+<M ID="D">D376.M.250.E.D</M>
+<M ID="E">D376.M.250.E.E</M>
+<M ID="H">D376.M.250.E.H</M>
+<M ID="I">D376.M.250.E.I</M>
+<M ID="J">D376.M.250.E.J</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D376.M.250.E.H">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d376</P>
+</PEERS>
+<MODELS>
+<M ID="A">D376.M.250.E.A</M>
+<M ID="B">D376.M.250.E.B</M>
+<M ID="C">D376.M.250.E.C</M>
+<M ID="D">D376.M.250.E.D</M>
+<M ID="E">D376.M.250.E.E</M>
+<M ID="G">D376.M.250.E.G</M>
+<M ID="I">D376.M.250.E.I</M>
+<M ID="J">D376.M.250.E.J</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D376.M.250.E.I">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d376</P>
+</PEERS>
+<MODELS>
+<M ID="A">D376.M.250.E.A</M>
+<M ID="B">D376.M.250.E.B</M>
+<M ID="C">D376.M.250.E.C</M>
+<M ID="D">D376.M.250.E.D</M>
+<M ID="E">D376.M.250.E.E</M>
+<M ID="G">D376.M.250.E.G</M>
+<M ID="H">D376.M.250.E.H</M>
+<M ID="J">D376.M.250.E.J</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D376.M.250.E.J">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d376</P>
+</PEERS>
+<MODELS>
+<M ID="A">D376.M.250.E.A</M>
+<M ID="B">D376.M.250.E.B</M>
+<M ID="C">D376.M.250.E.C</M>
+<M ID="D">D376.M.250.E.D</M>
+<M ID="E">D376.M.250.E.E</M>
+<M ID="G">D376.M.250.E.G</M>
+<M ID="H">D376.M.250.E.H</M>
+<M ID="I">D376.M.250.E.I</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D422.M.250.C.A">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d422</P>
+</PEERS>
+<MODELS>
+<M ID="B">D422.M.250.C.B</M>
+<M ID="C">D422.M.250.C.C</M>
+<M ID="D">D422.M.250.C.D</M>
+<M ID="E">D422.M.250.C.E</M>
+<M ID="F">D422.M.250.C.F</M>
+<M ID="H">D422.M.250.C.H</M>
+<M ID="I">D422.M.250.C.I</M>
+<M ID="J">D422.M.250.C.J</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D422.M.250.C.B">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d422</P>
+</PEERS>
+<MODELS>
+<M ID="A">D422.M.250.C.A</M>
+<M ID="C">D422.M.250.C.C</M>
+<M ID="D">D422.M.250.C.D</M>
+<M ID="E">D422.M.250.C.E</M>
+<M ID="F">D422.M.250.C.F</M>
+<M ID="H">D422.M.250.C.H</M>
+<M ID="I">D422.M.250.C.I</M>
+<M ID="J">D422.M.250.C.J</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D422.M.250.C.C">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d422</P>
+</PEERS>
+<MODELS>
+<M ID="A">D422.M.250.C.A</M>
+<M ID="B">D422.M.250.C.B</M>
+<M ID="D">D422.M.250.C.D</M>
+<M ID="E">D422.M.250.C.E</M>
+<M ID="F">D422.M.250.C.F</M>
+<M ID="H">D422.M.250.C.H</M>
+<M ID="I">D422.M.250.C.I</M>
+<M ID="J">D422.M.250.C.J</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D422.M.250.C.D">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d422</P>
+</PEERS>
+<MODELS>
+<M ID="A">D422.M.250.C.A</M>
+<M ID="B">D422.M.250.C.B</M>
+<M ID="C">D422.M.250.C.C</M>
+<M ID="E">D422.M.250.C.E</M>
+<M ID="F">D422.M.250.C.F</M>
+<M ID="H">D422.M.250.C.H</M>
+<M ID="I">D422.M.250.C.I</M>
+<M ID="J">D422.M.250.C.J</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D422.M.250.C.E">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d422</P>
+</PEERS>
+<MODELS>
+<M ID="A">D422.M.250.C.A</M>
+<M ID="B">D422.M.250.C.B</M>
+<M ID="C">D422.M.250.C.C</M>
+<M ID="D">D422.M.250.C.D</M>
+<M ID="F">D422.M.250.C.F</M>
+<M ID="H">D422.M.250.C.H</M>
+<M ID="I">D422.M.250.C.I</M>
+<M ID="J">D422.M.250.C.J</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D422.M.250.C.F">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d422</P>
+</PEERS>
+<MODELS>
+<M ID="A">D422.M.250.C.A</M>
+<M ID="B">D422.M.250.C.B</M>
+<M ID="C">D422.M.250.C.C</M>
+<M ID="D">D422.M.250.C.D</M>
+<M ID="E">D422.M.250.C.E</M>
+<M ID="H">D422.M.250.C.H</M>
+<M ID="I">D422.M.250.C.I</M>
+<M ID="J">D422.M.250.C.J</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D422.M.250.C.H">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d422</P>
+</PEERS>
+<MODELS>
+<M ID="A">D422.M.250.C.A</M>
+<M ID="B">D422.M.250.C.B</M>
+<M ID="C">D422.M.250.C.C</M>
+<M ID="D">D422.M.250.C.D</M>
+<M ID="E">D422.M.250.C.E</M>
+<M ID="F">D422.M.250.C.F</M>
+<M ID="I">D422.M.250.C.I</M>
+<M ID="J">D422.M.250.C.J</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D422.M.250.C.I">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d422</P>
+</PEERS>
+<MODELS>
+<M ID="A">D422.M.250.C.A</M>
+<M ID="B">D422.M.250.C.B</M>
+<M ID="C">D422.M.250.C.C</M>
+<M ID="D">D422.M.250.C.D</M>
+<M ID="E">D422.M.250.C.E</M>
+<M ID="F">D422.M.250.C.F</M>
+<M ID="H">D422.M.250.C.H</M>
+<M ID="J">D422.M.250.C.J</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D422.M.250.C.J">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d422</P>
+</PEERS>
+<MODELS>
+<M ID="A">D422.M.250.C.A</M>
+<M ID="B">D422.M.250.C.B</M>
+<M ID="C">D422.M.250.C.C</M>
+<M ID="D">D422.M.250.C.D</M>
+<M ID="E">D422.M.250.C.E</M>
+<M ID="F">D422.M.250.C.F</M>
+<M ID="H">D422.M.250.C.H</M>
+<M ID="I">D422.M.250.C.I</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D374.M.250.A.A">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d374</P>
+</PEERS>
+<MODELS>
+<M ID="D">D374.M.250.A.D</M>
+<M ID="E">D374.M.250.A.E</M>
+<M ID="F">D374.M.250.A.F</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D374.M.250.A.D">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d374</P>
+</PEERS>
+<MODELS>
+<M ID="A">D374.M.250.A.A</M>
+<M ID="E">D374.M.250.A.E</M>
+<M ID="F">D374.M.250.A.F</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D374.M.250.A.E">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d374</P>
+</PEERS>
+<MODELS>
+<M ID="A">D374.M.250.A.A</M>
+<M ID="D">D374.M.250.A.D</M>
+<M ID="F">D374.M.250.A.F</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D374.M.250.A.F">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d374</P>
+</PEERS>
+<MODELS>
+<M ID="A">D374.M.250.A.A</M>
+<M ID="D">D374.M.250.A.D</M>
+<M ID="E">D374.M.250.A.E</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D313.M.250.E.A">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d313</P>
+</PEERS>
+<MODELS>
+<M ID="B">D313.M.250.E.B</M>
+<M ID="C">D313.M.250.E.C</M>
+<M ID="E">D313.M.250.E.E</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D313.M.250.E.B">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d313</P>
+</PEERS>
+<MODELS>
+<M ID="A">D313.M.250.E.A</M>
+<M ID="C">D313.M.250.E.C</M>
+<M ID="E">D313.M.250.E.E</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D313.M.250.E.C">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d313</P>
+</PEERS>
+<MODELS>
+<M ID="A">D313.M.250.E.A</M>
+<M ID="B">D313.M.250.E.B</M>
+<M ID="E">D313.M.250.E.E</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D313.M.250.E.E">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d313</P>
+</PEERS>
+<MODELS>
+<M ID="A">D313.M.250.E.A</M>
+<M ID="B">D313.M.250.E.B</M>
+<M ID="C">D313.M.250.E.C</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D301.M.250.I.A">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d301</P>
+</PEERS>
+<MODELS>
+<M ID="B">D301.M.250.I.B</M>
+<M ID="C">D301.M.250.I.C</M>
+<M ID="I">D301.M.250.I.I</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D301.M.250.I.B">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d301</P>
+</PEERS>
+<MODELS>
+<M ID="A">D301.M.250.I.A</M>
+<M ID="C">D301.M.250.I.C</M>
+<M ID="I">D301.M.250.I.I</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D301.M.250.I.C">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d301</P>
+</PEERS>
+<MODELS>
+<M ID="A">D301.M.250.I.A</M>
+<M ID="B">D301.M.250.I.B</M>
+<M ID="I">D301.M.250.I.I</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D301.M.250.I.I">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d301</P>
+</PEERS>
+<MODELS>
+<M ID="A">D301.M.250.I.A</M>
+<M ID="B">D301.M.250.I.B</M>
+<M ID="C">D301.M.250.I.C</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D311.M.250.I.B">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d311</P>
+</PEERS>
+<MODELS>
+<M ID="C">D311.M.250.I.C</M>
+<M ID="D">D311.M.250.I.D</M>
+<M ID="E">D311.M.250.I.E</M>
+<M ID="F">D311.M.250.I.F</M>
+<M ID="G">D311.M.250.I.G</M>
+<M ID="H">D311.M.250.I.H</M>
+<M ID="I">D311.M.250.I.I</M>
+<M ID="J">D311.M.250.I.J</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D311.M.250.I.C">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d311</P>
+</PEERS>
+<MODELS>
+<M ID="B">D311.M.250.I.B</M>
+<M ID="D">D311.M.250.I.D</M>
+<M ID="E">D311.M.250.I.E</M>
+<M ID="F">D311.M.250.I.F</M>
+<M ID="G">D311.M.250.I.G</M>
+<M ID="H">D311.M.250.I.H</M>
+<M ID="I">D311.M.250.I.I</M>
+<M ID="J">D311.M.250.I.J</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D311.M.250.I.D">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d311</P>
+</PEERS>
+<MODELS>
+<M ID="B">D311.M.250.I.B</M>
+<M ID="C">D311.M.250.I.C</M>
+<M ID="E">D311.M.250.I.E</M>
+<M ID="F">D311.M.250.I.F</M>
+<M ID="G">D311.M.250.I.G</M>
+<M ID="H">D311.M.250.I.H</M>
+<M ID="I">D311.M.250.I.I</M>
+<M ID="J">D311.M.250.I.J</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D311.M.250.I.E">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d311</P>
+</PEERS>
+<MODELS>
+<M ID="B">D311.M.250.I.B</M>
+<M ID="C">D311.M.250.I.C</M>
+<M ID="D">D311.M.250.I.D</M>
+<M ID="F">D311.M.250.I.F</M>
+<M ID="G">D311.M.250.I.G</M>
+<M ID="H">D311.M.250.I.H</M>
+<M ID="I">D311.M.250.I.I</M>
+<M ID="J">D311.M.250.I.J</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D311.M.250.I.F">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d311</P>
+</PEERS>
+<MODELS>
+<M ID="B">D311.M.250.I.B</M>
+<M ID="C">D311.M.250.I.C</M>
+<M ID="D">D311.M.250.I.D</M>
+<M ID="E">D311.M.250.I.E</M>
+<M ID="G">D311.M.250.I.G</M>
+<M ID="H">D311.M.250.I.H</M>
+<M ID="I">D311.M.250.I.I</M>
+<M ID="J">D311.M.250.I.J</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D311.M.250.I.G">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d311</P>
+</PEERS>
+<MODELS>
+<M ID="B">D311.M.250.I.B</M>
+<M ID="C">D311.M.250.I.C</M>
+<M ID="D">D311.M.250.I.D</M>
+<M ID="E">D311.M.250.I.E</M>
+<M ID="F">D311.M.250.I.F</M>
+<M ID="H">D311.M.250.I.H</M>
+<M ID="I">D311.M.250.I.I</M>
+<M ID="J">D311.M.250.I.J</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D311.M.250.I.H">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d311</P>
+</PEERS>
+<MODELS>
+<M ID="B">D311.M.250.I.B</M>
+<M ID="C">D311.M.250.I.C</M>
+<M ID="D">D311.M.250.I.D</M>
+<M ID="E">D311.M.250.I.E</M>
+<M ID="F">D311.M.250.I.F</M>
+<M ID="G">D311.M.250.I.G</M>
+<M ID="I">D311.M.250.I.I</M>
+<M ID="J">D311.M.250.I.J</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D311.M.250.I.I">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d311</P>
+</PEERS>
+<MODELS>
+<M ID="B">D311.M.250.I.B</M>
+<M ID="C">D311.M.250.I.C</M>
+<M ID="D">D311.M.250.I.D</M>
+<M ID="E">D311.M.250.I.E</M>
+<M ID="F">D311.M.250.I.F</M>
+<M ID="G">D311.M.250.I.G</M>
+<M ID="H">D311.M.250.I.H</M>
+<M ID="J">D311.M.250.I.J</M>
+</MODELS>
+</EVAL>
+<EVAL ID="D311.M.250.I.J">
+<PEER-ROOT>
+C:\Users\Dell\Desktop\AIII\output
+</PEER-ROOT>
+<MODEL-ROOT>
+C:\Users\Dell\Desktop\AIII\data\duc2005\models
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="1">d311</P>
+</PEERS>
+<MODELS>
+<M ID="B">D311.M.250.I.B</M>
+<M ID="C">D311.M.250.I.C</M>
+<M ID="D">D311.M.250.I.D</M>
+<M ID="E">D311.M.250.I.E</M>
+<M ID="F">D311.M.250.I.F</M>
+<M ID="G">D311.M.250.I.G</M>
+<M ID="H">D311.M.250.I.H</M>
+<M ID="I">D311.M.250.I.I</M>
+</MODELS>
+</EVAL>
+</ROUGE_EVAL>
