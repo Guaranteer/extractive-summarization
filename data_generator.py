@@ -10,8 +10,6 @@ class Batcher(object):
     def __init__(self,params,mode='train'):
         self.params = params
         self.mode = mode
-        self.loadData()
-
 
         self.queries = self.loadQueries(self.params['querySource_'+mode], name_len=self.params['name_len_'+mode])
         self.orgDocs, self.feats, self.labels, self.preds = self.loadSents(self.params['pred_csv_'+mode])

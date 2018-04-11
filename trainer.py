@@ -13,7 +13,7 @@ class Trainer(object):
         sess_config =  tf.ConfigProto()
         sess_config.gpu_options.allow_growth = True
         self.sess = tf.Session(config = sess_config)
-        self.model_path = os.path.join(self.data_params['cache_dir'], 'tfmodel')
+        self.model_path = os.path.join(self.params['cache_dir'], 'tfmodel')
 
         self.model.build_graph()
         self.model_saver = tf.train.Saver()
@@ -30,6 +30,11 @@ class Trainer(object):
                                                  decay_rate=self.params['decay_rate'],decay_steps=self.params['decay_steps'])
         optimizer = tf.train.AdamOptimizer(learning_rate=learn_rates)
         train_op = optimizer.minimize(self.model.loss, global_step= global_step)
+
+
+        if not os.path.exists(self.model_path):
+            print('create path: ', self.model_path)
+            os.makedirs(self.model_path)
 
         init  = tf.global_variables_initializer()
         self.sess.run(init)
@@ -91,13 +96,13 @@ class Trainer(object):
             if i_epoch % 5 == 0:
                 print ('********************************************************')
                 print ('Overall evaluation')
-                valid_acc, _ = self._test(self.sess,i_epoch)
+                valid_acc, _ = self._test(i_epoch)
                 print ('Epoch %d ends. Average loss %.3f. %.3f seconds/epoch' % (i_epoch, avg_batch_loss, t_end-t_begin))
                 print ('********************************************************')
             else:
                 print ('********************************************************')
                 print ('Epoch %d ends. Average loss %.3f. %.3f seconds/epoch' % (i_epoch, avg_batch_loss, t_end-t_begin))
-                valid_acc = self._evaluate()
+                valid_acc = self._evaluate(self.valid_dataset)
                 print ('********************************************************')
 
             if valid_acc > best_epoch_acc:
@@ -115,54 +120,31 @@ class Trainer(object):
     def _evaluate(self, batcher):
         # evaluate the model in a set
         batcher.reset()
-        type_count = np.zeros(self.data_params['n_types'], dtype=float)
-        correct_count = np.zeros(self.data_params['n_types'], dtype=float)
-        wups_count = np.zeros(self.data_params['n_types'], dtype=float)
-        wups_count2 = np.zeros(self.data_params['n_types'], dtype=float)
 
-        num_per_epoch = len(batcher.keys) // 100
-        for _ in range(num_per_epoch):
-            img_frame_vecs, img_frame_n, ques_vecs, ques_n, ans_vec, type_vec = batcher.generate()
-            if ans_vec is None:
-                break
-            batch_data = {
-                model.input_q: ques_vecs,
-                model.y: ans_vec
-            }
+        num_per_epoch = batcher.num
 
-            batch_data[model.input_x] = img_frame_vecs
-            batch_data[model.input_x_len] = img_frame_n
-            batch_data[model.input_q_len] = ques_n
-            batch_data[model.is_training] = False
+        scores = list()
+        for i_batch in range(num_per_epoch):
+            org_docs, query_vec, q_len, doc_vec, d_len, rewards = batcher.get_data()
 
-            predict_status, top_index = \
-                sess.run([model.predict_status, model.top_index], feed_dict=batch_data)
+            feed = {self.model.input_q: query_vec, self.model.input_q_len: q_len, self.model.input_s:doc_vec, self.model.input_s_len:d_len, self.model.y:rewards}
 
-            for i in range(len(type_vec)):
-                type_count[type_vec[i]] += 1
-                correct_count[type_vec[i]] += predict_status[i]
+            loss, prob = self.sess.run([self.model.loss, self.prob], feed_dict = feed)
+            score_list = [rewards[idx] for idx in prob[0:10]]
+            score = sum(score_list)
+            scores.append(score)
 
-                ground_a = batcher.ans_set[ans_vec[i]]
-                generate_a = batcher.ans_set[top_index[i][0]]
-
-                wups_value = wups.compute_wups([ground_a], [generate_a], 0.7)
-                wups_value2 = wups.compute_wups([ground_a], [generate_a], 0.9)
-                wups_count[type_vec[i]] += wups_value
-                wups_count2[type_vec[i]] += wups_value2
-
+        score_mean = sum(scores)/len(scores)
         print('****************************')
-        acc = correct_count.sum() / type_count.sum()
-        wup_acc = wups_count.sum() / type_count.sum()
-        wup_acc2 = wups_count2.sum() / type_count.sum()
-        print('Overall Accuracy (top 1):', acc, '[', correct_count.sum(), '/', type_count.sum(), ']')
-        print('Overall Wup (@0):', wup_acc, '[', wups_count.sum(), '/', type_count.sum(), ']')
-        print('Overall Wup (@0.9):', wup_acc2, '[', wups_count2.sum(), '/', type_count.sum(), ']')
-        type_acc = [correct_count[i] / type_count[i] for i in range(self.data_params['n_types'])]
-        type_wup_acc = [wups_count[i] / type_count[i] for i in range(self.data_params['n_types'])]
-        type_wup_acc2 = [wups_count2[i] / type_count[i] for i in range(self.data_params['n_types'])]
-        print('Accuracy for each type:', type_acc)
-        print('Wup@0 for each type:', type_wup_acc)
-        print('Wup@0.9 for each type:', type_wup_acc2)
-        print(type_count)
+        print ('Overall Scores :', scores)
+        print('Mean Score :', score_mean)
 
-        return acc
+        return score_mean
+
+    def _test(self, i_epoch):
+        print('Validation set:')
+        valid_acc = self._evaluate(self.valid_dataset)
+        print('Test set:')
+        test_acc = self._evaluate(self.test_dataset)
+        return valid_acc, test_acc
+

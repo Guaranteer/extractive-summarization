@@ -7,7 +7,7 @@ params = {
     'q_max_len': 50,
     'depth': 40,
     'L': 3000,
-    'K':1500,
+    'K': 1500,
     'regularization_beta': 1e-7,
     'discount': 0.99,
 
