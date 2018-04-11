@@ -26,6 +26,7 @@ params = {
     'decay_rate': 0.8,
     'max_epoches': 100,
     'early_stopping': 5,
+    'display_batch_interval':10,
     'cache_dir':'./save_model/',
     'word2vec':'./word2vec/word2vec.bin'
 

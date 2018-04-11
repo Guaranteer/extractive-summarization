@@ -46,6 +46,7 @@ class Model(object):
         self.prob = tf.matmul(tf.matmul(s_last_state,self.U),self.h_now) # None * 1
         self.prob = tf.reshape(self.prob,[-1])
         self.loss = tf.nn.sigmoid_cross_entropy_with_logits(labels=self.y, logits=self.prob, name='cross_entropy')
+        self.loss = tf.reduce_sum(self.loss)
         # self.values, self.indices = tf.nn.top_k(tf.reshape(self.prob, [-1]), k=1, sorted=True, name='top_k')
         # self.chose = self.indices[0]
         # self.chose_s = s_last_state[self.chose]

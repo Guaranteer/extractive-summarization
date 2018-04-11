@@ -18,8 +18,11 @@ class Trainer(object):
         self.model.build_graph()
         self.model_saver = tf.train.Saver()
 
+        print('Load train dataset')
         self.train_dataset = dg.Batcher(params,'train')
+        print('Load valid dataset')
         self.valid_dataset = dg.Batcher(params, 'valid')
+        print('Load test dataset')
         self.test_dataset = dg.Batcher(params, 'test')
 
 
@@ -86,9 +89,9 @@ class Trainer(object):
                 # values = self.dataset.discount_rewards(re_list,0.80)
 
                 loss_sum.append(loss)
-                if i_batch % self.params[10] == 0:
+                if i_batch % self.params['display_batch_interval'] == 0:
                     t2 = time.time()
-                    print('Epoch %d, Batch %d, loss = %.4f, %.3f seconds/batch' % (i_epoch, i_batch, loss, (t2 - t1) / 10))
+                    print('Epoch %d, Batch %d, loss = %.4f, %.3f seconds/batch' % (i_epoch, i_batch, sum(loss_sum)/len(loss_sum), (t2 - t1) / 10))
                     t1 = t2
 
             avg_batch_loss = sum(loss_sum)/len(loss_sum)
@@ -129,8 +132,11 @@ class Trainer(object):
 
             feed = {self.model.input_q: query_vec, self.model.input_q_len: q_len, self.model.input_s:doc_vec, self.model.input_s_len:d_len, self.model.y:rewards}
 
-            loss, prob = self.sess.run([self.model.loss, self.prob], feed_dict = feed)
-            score_list = [rewards[idx] for idx in prob[0:10]]
+            loss, prob = self.sess.run([self.model.loss, self.model.prob], feed_dict = feed)
+            index = list(np.argsort(prob))
+            index.reverse()
+
+            score_list = [rewards[idx] for idx in index[0:10]]
             score = sum(score_list)
             scores.append(score)
 
